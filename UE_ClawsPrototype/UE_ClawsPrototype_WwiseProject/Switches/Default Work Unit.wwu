@@ -37,6 +37,12 @@
 						</SwitchGroup>
 					</ChildrenList>
 				</Folder>
+				<SwitchGroup Name="DryWet" ID="{53035CEC-B665-4449-9335-A664EA46A99C}">
+					<ChildrenList>
+						<Switch Name="Dry" ID="{0DDFC831-27F9-472B-9049-5B625B741223}"/>
+						<Switch Name="Wet" ID="{1B95A7FC-BB17-4C15-B54D-86A64B3CDC17}"/>
+					</ChildrenList>
+				</SwitchGroup>
 			</ChildrenList>
 		</WorkUnit>
 	</Switches>
