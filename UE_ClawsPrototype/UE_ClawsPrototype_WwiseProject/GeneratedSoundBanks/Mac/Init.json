@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{DAD931E8-FFF5-0DD5-1CCF-C9EBB0E602A4}",
+    "Hash": "{EF64B8A2-9050-7BA7-A5D2-28C431CF047C}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
@@ -72,6 +72,14 @@
       "GUID": "{6B316893-9DA3-435B-A527-64B8BFE2BBB1}"
      }
     ],
+    "GameParameters": [
+     {
+      "Id": "1939547783",
+      "Name": "Hit_Type",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Hit_Type",
+      "GUID": "{8DF7A178-7C2C-4A2A-8D37-9ACE66C59546}"
+     }
+    ],
     "SwitchGroups": [
      {
       "Id": "3964766495",
@@ -102,6 +110,6 @@
     ]
    }
   ],
-  "FileHash": "{49D90FA4-5660-07BE-229D-BAEE80B20E3E}"
+  "FileHash": "{C880F4C2-9B8A-14A2-7C71-61603F18E7D9}"
  }
 }
