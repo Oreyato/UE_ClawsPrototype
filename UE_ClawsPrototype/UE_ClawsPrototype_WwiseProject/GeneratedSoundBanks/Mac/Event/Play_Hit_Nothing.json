@@ -1,0 +1,109 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "2541891783",
+    "Type": "Event",
+    "GUID": "{7C6C526B-D41F-4E4A-BA62-28B6B84B37E8}",
+    "Language": "SFX",
+    "Hash": "{B3A088C4-7CEE-1938-C652-733CB8DBD172}",
+    "ObjectPath": "Play_Hit_Nothing",
+    "ShortName": "Play_Hit_Nothing",
+    "Path": "Event/Play_Hit_Nothing.bnk",
+    "Media": [
+     {
+      "Id": "136525551",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "POWERCLAW_No_Hit_02.wav",
+      "Path": "Media/136525551.wem",
+      "CachePath": "SFX/POWERCLAW_No_Hit_02_818F3B66.wem"
+     },
+     {
+      "Id": "335312547",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "POWERCLAW_No_Hit_05.wav",
+      "Path": "Media/335312547.wem",
+      "CachePath": "SFX/POWERCLAW_No_Hit_05_818F3B66.wem"
+     },
+     {
+      "Id": "602904386",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "POWERCLAW_No_Hit_06.wav",
+      "Path": "Media/602904386.wem",
+      "CachePath": "SFX/POWERCLAW_No_Hit_06_818F3B66.wem"
+     },
+     {
+      "Id": "666428243",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "POWERCLAW_No_Hit_01.wav",
+      "Path": "Media/666428243.wem",
+      "CachePath": "SFX/POWERCLAW_No_Hit_01_818F3B66.wem"
+     },
+     {
+      "Id": "825516958",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "POWERCLAW_No_Hit_04.wav",
+      "Path": "Media/825516958.wem",
+      "CachePath": "SFX/POWERCLAW_No_Hit_04_818F3B66.wem"
+     },
+     {
+      "Id": "881909881",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "POWERCLAW_No_Hit_03.wav",
+      "Path": "Media/881909881.wem",
+      "CachePath": "SFX/POWERCLAW_No_Hit_03_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2541891783",
+      "Name": "Play_Hit_Nothing",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Hit_Nothing",
+      "GUID": "{7C6C526B-D41F-4E4A-BA62-28B6B84B37E8}",
+      "MaxAttenuation": "10000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.13333334",
+      "DurationMax": "0.14126176",
+      "MediaRefs": [
+       {
+        "Id": "136525551"
+       },
+       {
+        "Id": "335312547"
+       },
+       {
+        "Id": "602904386"
+       },
+       {
+        "Id": "666428243"
+       },
+       {
+        "Id": "825516958"
+       },
+       {
+        "Id": "881909881"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{2DCF5843-CF00-6059-AD91-7F097584F577}"
+ }
+}

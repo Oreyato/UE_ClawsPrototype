@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="4191219420" Type="Event" GUID="{7D10022D-5FB4-4B69-93B0-36DAF147D78A}" Language="SFX" Hash="{47939F21-4EF6-DF63-4322-0B6BEA819F5D}">
+			<ObjectPath>Play_FX_DEBUG_SOUND</ObjectPath>
+			<ShortName>Play_FX_DEBUG_SOUND</ShortName>
+			<Path>Event/Play_FX_DEBUG_SOUND.bnk</Path>
+			<Media>
+				<File Id="642138188" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>DEBUG_SOUND.wav</ShortName>
+					<Path>Media/642138188.wem</Path>
+					<CachePath>SFX/DEBUG_SOUND_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="4191219420" Name="Play_FX_DEBUG_SOUND" ObjectPath="\Events\Default Work Unit\Play_FX_DEBUG_SOUND" GUID="{7D10022D-5FB4-4B69-93B0-36DAF147D78A}" MaxAttenuation="10000" DurationType="OneShot" DurationMin="0.14" DurationMax="0.14">
+					<MediaRefs>
+						<MediaRef Id="642138188"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{F4CA290B-EC3D-D240-784E-57F95415F4B7}</FileHash>
+</SoundBanksInfo>

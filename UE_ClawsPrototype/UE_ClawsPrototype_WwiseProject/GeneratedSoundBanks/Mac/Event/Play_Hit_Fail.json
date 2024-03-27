@@ -1,0 +1,109 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "1145089636",
+    "Type": "Event",
+    "GUID": "{137E280B-2831-4622-B525-E12DFD363099}",
+    "Language": "SFX",
+    "Hash": "{B7037A07-FFA1-6302-DDE1-E17F88192F2F}",
+    "ObjectPath": "Play_Hit_Fail",
+    "ShortName": "Play_Hit_Fail",
+    "Path": "Event/Play_Hit_Fail.bnk",
+    "Media": [
+     {
+      "Id": "112202913",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "POWERCLAW_HitFail_02.wav",
+      "Path": "Media/112202913.wem",
+      "CachePath": "SFX/POWERCLAW_HitFail_02_818F3B66.wem"
+     },
+     {
+      "Id": "142239864",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "POWERCLAW_HitFail_06.wav",
+      "Path": "Media/142239864.wem",
+      "CachePath": "SFX/POWERCLAW_HitFail_06_818F3B66.wem"
+     },
+     {
+      "Id": "815250102",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "POWERCLAW_HitFail_05.wav",
+      "Path": "Media/815250102.wem",
+      "CachePath": "SFX/POWERCLAW_HitFail_05_818F3B66.wem"
+     },
+     {
+      "Id": "830223609",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "POWERCLAW_HitFail_03.wav",
+      "Path": "Media/830223609.wem",
+      "CachePath": "SFX/POWERCLAW_HitFail_03_818F3B66.wem"
+     },
+     {
+      "Id": "909348170",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "POWERCLAW_HitFail_04.wav",
+      "Path": "Media/909348170.wem",
+      "CachePath": "SFX/POWERCLAW_HitFail_04_818F3B66.wem"
+     },
+     {
+      "Id": "1014996887",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "POWERCLAW_HitFail_01.wav",
+      "Path": "Media/1014996887.wem",
+      "CachePath": "SFX/POWERCLAW_HitFail_01_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1145089636",
+      "Name": "Play_Hit_Fail",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Hit_Fail",
+      "GUID": "{137E280B-2831-4622-B525-E12DFD363099}",
+      "MaxAttenuation": "10000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.1",
+      "DurationMax": "0.10594632",
+      "MediaRefs": [
+       {
+        "Id": "112202913"
+       },
+       {
+        "Id": "142239864"
+       },
+       {
+        "Id": "815250102"
+       },
+       {
+        "Id": "830223609"
+       },
+       {
+        "Id": "909348170"
+       },
+       {
+        "Id": "1014996887"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{088AB845-93B6-009A-E2DB-3E2D9FB80CE8}"
+ }
+}

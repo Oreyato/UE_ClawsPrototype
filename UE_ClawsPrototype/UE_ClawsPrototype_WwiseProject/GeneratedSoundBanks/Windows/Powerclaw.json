@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{CB4F4904-31FE-415E-A997-DA35425A86FA}",
     "Language": "SFX",
-    "Hash": "{FD0448CB-4D8A-13D5-3A43-D45E7706C127}",
+    "Hash": "{3B9F5C7A-F572-F9F8-27D1-3EB8E951BA47}",
     "ObjectPath": "\\SoundBanks\\Elise\\Powerclaw",
     "ShortName": "Powerclaw",
     "Path": "Powerclaw.bnk",
@@ -30,38 +30,6 @@
       "Location": "Memory",
       "ShortName": "POWERCLAW_Retracting_05.wav",
       "CachePath": "SFX/POWERCLAW_Retracting_05_818F3B66.wem"
-     },
-     {
-      "Id": "44406965",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "POWERCLAW_HitSuccess_06.wav",
-      "CachePath": "SFX/POWERCLAW_HitSuccess_06_818F3B66.wem"
-     },
-     {
-      "Id": "112202913",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "POWERCLAW_HitFail_02.wav",
-      "CachePath": "SFX/POWERCLAW_HitFail_02_818F3B66.wem"
-     },
-     {
-      "Id": "136525551",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "POWERCLAW_No_Hit_02.wav",
-      "CachePath": "SFX/POWERCLAW_No_Hit_02_818F3B66.wem"
-     },
-     {
-      "Id": "142239864",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "POWERCLAW_HitFail_06.wav",
-      "CachePath": "SFX/POWERCLAW_HitFail_06_818F3B66.wem"
      },
      {
       "Id": "189337946",
@@ -88,44 +56,12 @@
       "CachePath": "SFX/POWERCLAW_Deploying_06_818F3B66.wem"
      },
      {
-      "Id": "335312547",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "POWERCLAW_No_Hit_05.wav",
-      "CachePath": "SFX/POWERCLAW_No_Hit_05_818F3B66.wem"
-     },
-     {
       "Id": "464318529",
       "Language": "SFX",
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "POWERCLAW_Retracting_02.wav",
       "CachePath": "SFX/POWERCLAW_Retracting_02_818F3B66.wem"
-     },
-     {
-      "Id": "496630311",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "POWERCLAW_HitSuccess_02.wav",
-      "CachePath": "SFX/POWERCLAW_HitSuccess_02_818F3B66.wem"
-     },
-     {
-      "Id": "590012328",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "POWERCLAW_HitSuccess_04.wav",
-      "CachePath": "SFX/POWERCLAW_HitSuccess_04_818F3B66.wem"
-     },
-     {
-      "Id": "602904386",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "POWERCLAW_No_Hit_06.wav",
-      "CachePath": "SFX/POWERCLAW_No_Hit_06_818F3B66.wem"
      },
      {
       "Id": "624886003",
@@ -144,14 +80,6 @@
       "CachePath": "SFX/POWERCLAW_Deploying_03_818F3B66.wem"
      },
      {
-      "Id": "666428243",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "POWERCLAW_No_Hit_01.wav",
-      "CachePath": "SFX/POWERCLAW_No_Hit_01_818F3B66.wem"
-     },
-     {
       "Id": "800482599",
       "Language": "SFX",
       "Streaming": "false",
@@ -160,52 +88,12 @@
       "CachePath": "SFX/POWERCLAW_Retracting_06_818F3B66.wem"
      },
      {
-      "Id": "815250102",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "POWERCLAW_HitFail_05.wav",
-      "CachePath": "SFX/POWERCLAW_HitFail_05_818F3B66.wem"
-     },
-     {
-      "Id": "825516958",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "POWERCLAW_No_Hit_04.wav",
-      "CachePath": "SFX/POWERCLAW_No_Hit_04_818F3B66.wem"
-     },
-     {
-      "Id": "830223609",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "POWERCLAW_HitFail_03.wav",
-      "CachePath": "SFX/POWERCLAW_HitFail_03_818F3B66.wem"
-     },
-     {
-      "Id": "881909881",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "POWERCLAW_No_Hit_03.wav",
-      "CachePath": "SFX/POWERCLAW_No_Hit_03_818F3B66.wem"
-     },
-     {
       "Id": "905417769",
       "Language": "SFX",
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "POWERCLAW_Deploying_01.wav",
       "CachePath": "SFX/POWERCLAW_Deploying_01_818F3B66.wem"
-     },
-     {
-      "Id": "909348170",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "POWERCLAW_HitFail_04.wav",
-      "CachePath": "SFX/POWERCLAW_HitFail_04_818F3B66.wem"
      },
      {
       "Id": "910913181",
@@ -222,38 +110,6 @@
       "Location": "Memory",
       "ShortName": "POWERCLAW_Retracting_01.wav",
       "CachePath": "SFX/POWERCLAW_Retracting_01_818F3B66.wem"
-     },
-     {
-      "Id": "1014996887",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "POWERCLAW_HitFail_01.wav",
-      "CachePath": "SFX/POWERCLAW_HitFail_01_818F3B66.wem"
-     },
-     {
-      "Id": "1019310611",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "POWERCLAW_HitSuccess_01.wav",
-      "CachePath": "SFX/POWERCLAW_HitSuccess_01_818F3B66.wem"
-     },
-     {
-      "Id": "1041010801",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "POWERCLAW_HitSuccess_03.wav",
-      "CachePath": "SFX/POWERCLAW_HitSuccess_03_818F3B66.wem"
-     },
-     {
-      "Id": "1048140003",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "POWERCLAW_HitSuccess_05.wav",
-      "CachePath": "SFX/POWERCLAW_HitSuccess_05_818F3B66.wem"
      }
     ],
     "Events": [
@@ -294,64 +150,8 @@
       "GUID": "{74F9B796-8EE6-4B78-97E2-77F92ABB4974}",
       "MaxAttenuation": "10000",
       "DurationType": "OneShot",
-      "DurationMin": "0.4",
-      "DurationMax": "0.42378527",
-      "MediaRefs": [
-       {
-        "Id": "44406965"
-       },
-       {
-        "Id": "112202913"
-       },
-       {
-        "Id": "136525551"
-       },
-       {
-        "Id": "142239864"
-       },
-       {
-        "Id": "335312547"
-       },
-       {
-        "Id": "496630311"
-       },
-       {
-        "Id": "590012328"
-       },
-       {
-        "Id": "602904386"
-       },
-       {
-        "Id": "666428243"
-       },
-       {
-        "Id": "815250102"
-       },
-       {
-        "Id": "825516958"
-       },
-       {
-        "Id": "830223609"
-       },
-       {
-        "Id": "881909881"
-       },
-       {
-        "Id": "909348170"
-       },
-       {
-        "Id": "1014996887"
-       },
-       {
-        "Id": "1019310611"
-       },
-       {
-        "Id": "1041010801"
-       },
-       {
-        "Id": "1048140003"
-       }
-      ]
+      "DurationMin": "0",
+      "DurationMax": "0"
      },
      {
       "Id": "2915524786",
@@ -394,6 +194,6 @@
     ]
    }
   ],
-  "FileHash": "{1F55AB85-4083-8772-DF0A-3721C36CE583}"
+  "FileHash": "{DCE4550B-61D4-3A25-D4EC-5F0F4E68930E}"
  }
 }

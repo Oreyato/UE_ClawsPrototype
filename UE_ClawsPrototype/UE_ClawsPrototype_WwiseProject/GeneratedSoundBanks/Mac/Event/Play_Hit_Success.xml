@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="2863398009" Type="Event" GUID="{9AD2B0AD-F657-4A4B-A78C-AFE754F89A8F}" Language="SFX" Hash="{AB6C59BE-BC00-0D7E-F9B6-616127F117B2}">
+			<ObjectPath>Play_Hit_Success</ObjectPath>
+			<ShortName>Play_Hit_Success</ShortName>
+			<Path>Event/Play_Hit_Success.bnk</Path>
+			<Media>
+				<File Id="44406965" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>POWERCLAW_HitSuccess_06.wav</ShortName>
+					<Path>Media/44406965.wem</Path>
+					<CachePath>SFX/POWERCLAW_HitSuccess_06_818F3B66.wem</CachePath>
+				</File>
+				<File Id="496630311" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>POWERCLAW_HitSuccess_02.wav</ShortName>
+					<Path>Media/496630311.wem</Path>
+					<CachePath>SFX/POWERCLAW_HitSuccess_02_818F3B66.wem</CachePath>
+				</File>
+				<File Id="590012328" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>POWERCLAW_HitSuccess_04.wav</ShortName>
+					<Path>Media/590012328.wem</Path>
+					<CachePath>SFX/POWERCLAW_HitSuccess_04_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1019310611" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>POWERCLAW_HitSuccess_01.wav</ShortName>
+					<Path>Media/1019310611.wem</Path>
+					<CachePath>SFX/POWERCLAW_HitSuccess_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1041010801" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>POWERCLAW_HitSuccess_03.wav</ShortName>
+					<Path>Media/1041010801.wem</Path>
+					<CachePath>SFX/POWERCLAW_HitSuccess_03_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1048140003" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>POWERCLAW_HitSuccess_05.wav</ShortName>
+					<Path>Media/1048140003.wem</Path>
+					<CachePath>SFX/POWERCLAW_HitSuccess_05_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2863398009" Name="Play_Hit_Success" ObjectPath="\Events\Default Work Unit\Play_Hit_Success" GUID="{9AD2B0AD-F657-4A4B-A78C-AFE754F89A8F}" MaxAttenuation="10000" DurationType="OneShot" DurationMin="0.4" DurationMax="0.42378527">
+					<MediaRefs>
+						<MediaRef Id="44406965"/>
+						<MediaRef Id="496630311"/>
+						<MediaRef Id="590012328"/>
+						<MediaRef Id="1019310611"/>
+						<MediaRef Id="1041010801"/>
+						<MediaRef Id="1048140003"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{782120C3-ABF2-909F-C6F3-C78429807D5E}</FileHash>
+</SoundBanksInfo>

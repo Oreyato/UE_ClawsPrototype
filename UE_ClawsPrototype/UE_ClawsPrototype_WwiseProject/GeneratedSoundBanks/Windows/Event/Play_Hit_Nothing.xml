@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="2541891783" Type="Event" GUID="{7C6C526B-D41F-4E4A-BA62-28B6B84B37E8}" Language="SFX" Hash="{B3A088C4-7CEE-1938-C652-733CB8DBD172}">
+			<ObjectPath>Play_Hit_Nothing</ObjectPath>
+			<ShortName>Play_Hit_Nothing</ShortName>
+			<Path>Event/Play_Hit_Nothing.bnk</Path>
+			<Media>
+				<File Id="136525551" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>POWERCLAW_No_Hit_02.wav</ShortName>
+					<Path>Media/136525551.wem</Path>
+					<CachePath>SFX/POWERCLAW_No_Hit_02_818F3B66.wem</CachePath>
+				</File>
+				<File Id="335312547" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>POWERCLAW_No_Hit_05.wav</ShortName>
+					<Path>Media/335312547.wem</Path>
+					<CachePath>SFX/POWERCLAW_No_Hit_05_818F3B66.wem</CachePath>
+				</File>
+				<File Id="602904386" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>POWERCLAW_No_Hit_06.wav</ShortName>
+					<Path>Media/602904386.wem</Path>
+					<CachePath>SFX/POWERCLAW_No_Hit_06_818F3B66.wem</CachePath>
+				</File>
+				<File Id="666428243" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>POWERCLAW_No_Hit_01.wav</ShortName>
+					<Path>Media/666428243.wem</Path>
+					<CachePath>SFX/POWERCLAW_No_Hit_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="825516958" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>POWERCLAW_No_Hit_04.wav</ShortName>
+					<Path>Media/825516958.wem</Path>
+					<CachePath>SFX/POWERCLAW_No_Hit_04_818F3B66.wem</CachePath>
+				</File>
+				<File Id="881909881" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>POWERCLAW_No_Hit_03.wav</ShortName>
+					<Path>Media/881909881.wem</Path>
+					<CachePath>SFX/POWERCLAW_No_Hit_03_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2541891783" Name="Play_Hit_Nothing" ObjectPath="\Events\Default Work Unit\Play_Hit_Nothing" GUID="{7C6C526B-D41F-4E4A-BA62-28B6B84B37E8}" MaxAttenuation="10000" DurationType="OneShot" DurationMin="0.13333334" DurationMax="0.14126176">
+					<MediaRefs>
+						<MediaRef Id="136525551"/>
+						<MediaRef Id="335312547"/>
+						<MediaRef Id="602904386"/>
+						<MediaRef Id="666428243"/>
+						<MediaRef Id="825516958"/>
+						<MediaRef Id="881909881"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{B30276AF-FD27-5F6D-C1A5-2C36B5BA8BF1}</FileHash>
+</SoundBanksInfo>

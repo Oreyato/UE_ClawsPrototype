@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4191219420	Play_FX_DEBUG_SOUND			\Default Work Unit\Play_FX_DEBUG_SOUND	
+

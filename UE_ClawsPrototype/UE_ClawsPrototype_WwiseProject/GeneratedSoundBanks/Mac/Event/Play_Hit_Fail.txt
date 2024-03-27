@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1145089636	Play_Hit_Fail			\Default Work Unit\Play_Hit_Fail	
+

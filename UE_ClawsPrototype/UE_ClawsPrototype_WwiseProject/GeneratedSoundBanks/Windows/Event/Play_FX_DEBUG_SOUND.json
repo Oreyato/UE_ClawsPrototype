@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "4191219420",
+    "Type": "Event",
+    "GUID": "{7D10022D-5FB4-4B69-93B0-36DAF147D78A}",
+    "Language": "SFX",
+    "Hash": "{47939F21-4EF6-DF63-4322-0B6BEA819F5D}",
+    "ObjectPath": "Play_FX_DEBUG_SOUND",
+    "ShortName": "Play_FX_DEBUG_SOUND",
+    "Path": "Event/Play_FX_DEBUG_SOUND.bnk",
+    "Media": [
+     {
+      "Id": "642138188",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "DEBUG_SOUND.wav",
+      "Path": "Media/642138188.wem",
+      "CachePath": "SFX/DEBUG_SOUND_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "4191219420",
+      "Name": "Play_FX_DEBUG_SOUND",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_FX_DEBUG_SOUND",
+      "GUID": "{7D10022D-5FB4-4B69-93B0-36DAF147D78A}",
+      "MaxAttenuation": "10000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.14",
+      "DurationMax": "0.14",
+      "MediaRefs": [
+       {
+        "Id": "642138188"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{CE6315F7-7786-6ADF-1F86-1AD564721CDC}"
+ }
+}
