@@ -1,0 +1,669 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "4035004657",
+    "Type": "User",
+    "GUID": "{7282AAB3-2A0D-42A9-8DB5-CEF139DCBCF0}",
+    "Language": "SFX",
+    "Hash": "{D549C50E-F8BF-3FC9-A852-E134B9BD4F8A}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Foleys",
+    "ShortName": "Foleys",
+    "Path": "Foleys.bnk",
+    "Media": [
+     {
+      "Id": "10736698",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Landing_Crystals_04.wav",
+      "CachePath": "SFX/REMI_Jump_Landing_Crystals_04_818F3B66.wem"
+     },
+     {
+      "Id": "58459941",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Landing_Vegetation_03.wav",
+      "CachePath": "SFX/REMI_Jump_Landing_Vegetation_03_818F3B66.wem"
+     },
+     {
+      "Id": "58619379",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Raise_Vegetation_03.wav",
+      "CachePath": "SFX/REMI_Jump_Raise_Vegetation_03_818F3B66.wem"
+     },
+     {
+      "Id": "68888001",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Landing_Corals_02.wav",
+      "CachePath": "SFX/REMI_Jump_Landing_Corals_02_818F3B66.wem"
+     },
+     {
+      "Id": "132841984",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Landing_Vegetation_04.wav",
+      "CachePath": "SFX/REMI_Jump_Landing_Vegetation_04_818F3B66.wem"
+     },
+     {
+      "Id": "205510176",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Landing_Sand_02.wav",
+      "CachePath": "SFX/REMI_Jump_Landing_Sand_02_818F3B66.wem"
+     },
+     {
+      "Id": "246519746",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Landing_Corals_03.wav",
+      "CachePath": "SFX/REMI_Jump_Landing_Corals_03_818F3B66.wem"
+     },
+     {
+      "Id": "255993013",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Raise_Crystals_04.wav",
+      "CachePath": "SFX/REMI_Jump_Raise_Crystals_04_818F3B66.wem"
+     },
+     {
+      "Id": "259829286",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Raise_Crystals_02.wav",
+      "CachePath": "SFX/REMI_Jump_Raise_Crystals_02_818F3B66.wem"
+     },
+     {
+      "Id": "273254375",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_HardS.wav",
+      "CachePath": "SFX/REMI_Jump_HardS_818F3B66.wem"
+     },
+     {
+      "Id": "318352530",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Landing_Crystals_02.wav",
+      "CachePath": "SFX/REMI_Jump_Landing_Crystals_02_818F3B66.wem"
+     },
+     {
+      "Id": "351566940",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Landing_Corals_01.wav",
+      "CachePath": "SFX/REMI_Jump_Landing_Corals_01_818F3B66.wem"
+     },
+     {
+      "Id": "359125677",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Landing_HardS.wav",
+      "CachePath": "SFX/REMI_Landing_HardS_818F3B66.wem"
+     },
+     {
+      "Id": "383396869",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Raise_Sand_04.wav",
+      "CachePath": "SFX/REMI_Jump_Raise_Sand_04_818F3B66.wem"
+     },
+     {
+      "Id": "430870624",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Raise_Corals_04.wav",
+      "CachePath": "SFX/REMI_Jump_Raise_Corals_04_818F3B66.wem"
+     },
+     {
+      "Id": "440654129",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Landing_Crystals_03.wav",
+      "CachePath": "SFX/REMI_Jump_Landing_Crystals_03_818F3B66.wem"
+     },
+     {
+      "Id": "441413197",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Landing_Vegetation_02.wav",
+      "CachePath": "SFX/REMI_Jump_Landing_Vegetation_02_818F3B66.wem"
+     },
+     {
+      "Id": "441843541",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Raise_Sand_01.wav",
+      "CachePath": "SFX/REMI_Jump_Raise_Sand_01_818F3B66.wem"
+     },
+     {
+      "Id": "447311588",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Raise_Vegetation_01.wav",
+      "CachePath": "SFX/REMI_Jump_Raise_Vegetation_01_818F3B66.wem"
+     },
+     {
+      "Id": "455895334",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Raise_Sand_02.wav",
+      "CachePath": "SFX/REMI_Jump_Raise_Sand_02_818F3B66.wem"
+     },
+     {
+      "Id": "476913261",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Raise_Crystals_01.wav",
+      "CachePath": "SFX/REMI_Jump_Raise_Crystals_01_818F3B66.wem"
+     },
+     {
+      "Id": "506819010",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Raise_Vegetation_04.wav",
+      "CachePath": "SFX/REMI_Jump_Raise_Vegetation_04_818F3B66.wem"
+     },
+     {
+      "Id": "650345197",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Raise_Corals_01.wav",
+      "CachePath": "SFX/REMI_Jump_Raise_Corals_01_818F3B66.wem"
+     },
+     {
+      "Id": "750000837",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Landing_Corals_04.wav",
+      "CachePath": "SFX/REMI_Jump_Landing_Corals_04_818F3B66.wem"
+     },
+     {
+      "Id": "781749312",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Raise_Corals_02.wav",
+      "CachePath": "SFX/REMI_Jump_Raise_Corals_02_818F3B66.wem"
+     },
+     {
+      "Id": "791008288",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Landing_Sand_04.wav",
+      "CachePath": "SFX/REMI_Jump_Landing_Sand_04_818F3B66.wem"
+     },
+     {
+      "Id": "799342202",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Landing_Crystals_01.wav",
+      "CachePath": "SFX/REMI_Jump_Landing_Crystals_01_818F3B66.wem"
+     },
+     {
+      "Id": "817350607",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Landing_Vegetation_01.wav",
+      "CachePath": "SFX/REMI_Jump_Landing_Vegetation_01_818F3B66.wem"
+     },
+     {
+      "Id": "886687609",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Raise_Crystals_03.wav",
+      "CachePath": "SFX/REMI_Jump_Raise_Crystals_03_818F3B66.wem"
+     },
+     {
+      "Id": "891782627",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Raise_Vegetation_02.wav",
+      "CachePath": "SFX/REMI_Jump_Raise_Vegetation_02_818F3B66.wem"
+     },
+     {
+      "Id": "930574246",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Landing_Sand_01.wav",
+      "CachePath": "SFX/REMI_Jump_Landing_Sand_01_818F3B66.wem"
+     },
+     {
+      "Id": "946891744",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Landing_Sand_03.wav",
+      "CachePath": "SFX/REMI_Jump_Landing_Sand_03_818F3B66.wem"
+     },
+     {
+      "Id": "1016624219",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Raise_Corals_03.wav",
+      "CachePath": "SFX/REMI_Jump_Raise_Corals_03_818F3B66.wem"
+     },
+     {
+      "Id": "1025784415",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "REMI_Jump_Raise_Sand_03.wav",
+      "CachePath": "SFX/REMI_Jump_Raise_Sand_03_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3687158001",
+      "Name": "Play_Foley_Remi_Jump_Materials",
+      "ObjectPath": "\\Events\\Default Work Unit\\Foleys\\Jump\\Play_Foley_Remi_Jump_Materials",
+      "GUID": "{E782ED33-6E57-407A-A69F-B6CF6E8FF0BA}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.25685862",
+      "DurationMax": "0.49747038",
+      "AuxBusRefs": [
+       {
+        "Id": "1710991347",
+        "Name": "Bus_RVb_Cave_Purple",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Bus_Ambience\\Bus_RVb_Cave_Purple",
+        "GUID": "{EB9EC2A3-4172-4D42-A6A8-EB41033B7D4E}"
+       },
+       {
+        "Id": "3249726050",
+        "Name": "Bus_RVB_Cave_Forest",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Bus_Ambience\\Bus_RVB_Cave_Forest",
+        "GUID": "{42B76DAA-704D-4CF9-A56B-553EACA55FCE}"
+       },
+       {
+        "Id": "4272489413",
+        "Name": "Bus_RVB_Cave_Blue",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Bus_Ambience\\Bus_RVB_Cave_Blue",
+        "GUID": "{7739B8B3-082F-435F-8DA7-59852F42F085}"
+       }
+      ],
+      "SwitchContainers": [
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "111081514",
+         "Id": "1100010280",
+         "GUID": "{8CACA207-C1DA-471E-95F5-63999519FF78}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "255993013"
+         },
+         {
+          "Id": "259829286"
+         },
+         {
+          "Id": "476913261"
+         },
+         {
+          "Id": "886687609"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "111081514",
+         "Id": "2932679629",
+         "GUID": "{7A22AA39-8810-47A0-8985-CA6E55E2442F}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "58619379"
+         },
+         {
+          "Id": "447311588"
+         },
+         {
+          "Id": "506819010"
+         },
+         {
+          "Id": "891782627"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "111081514",
+         "Id": "2785673615",
+         "GUID": "{0206F064-1B90-475D-BBCA-CA206B1A973B}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "430870624"
+         },
+         {
+          "Id": "650345197"
+         },
+         {
+          "Id": "781749312"
+         },
+         {
+          "Id": "1016624219"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "111081514",
+         "Id": "803837735",
+         "GUID": "{1E0C8993-59FE-4360-B5AA-784C1962A964}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "383396869"
+         },
+         {
+          "Id": "441843541"
+         },
+         {
+          "Id": "455895334"
+         },
+         {
+          "Id": "1025784415"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "Id": "3647985254",
+      "Name": "Play_Foley_Remi_Jump_Movement",
+      "ObjectPath": "\\Events\\Default Work Unit\\Foleys\\Jump\\Play_Foley_Remi_Jump_Movement",
+      "GUID": "{DE903F1C-18DA-488F-A04F-E5C14D2C3C84}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.3971875",
+      "DurationMax": "0.3971875",
+      "MediaRefs": [
+       {
+        "Id": "273254375"
+       }
+      ],
+      "AuxBusRefs": [
+       {
+        "Id": "1710991347",
+        "Name": "Bus_RVb_Cave_Purple",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Bus_Ambience\\Bus_RVb_Cave_Purple",
+        "GUID": "{EB9EC2A3-4172-4D42-A6A8-EB41033B7D4E}"
+       },
+       {
+        "Id": "3249726050",
+        "Name": "Bus_RVB_Cave_Forest",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Bus_Ambience\\Bus_RVB_Cave_Forest",
+        "GUID": "{42B76DAA-704D-4CF9-A56B-553EACA55FCE}"
+       },
+       {
+        "Id": "4272489413",
+        "Name": "Bus_RVB_Cave_Blue",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Bus_Ambience\\Bus_RVB_Cave_Blue",
+        "GUID": "{7739B8B3-082F-435F-8DA7-59852F42F085}"
+       }
+      ]
+     },
+     {
+      "Id": "2900815882",
+      "Name": "Play_Foley_Remi_Land_Materials",
+      "ObjectPath": "\\Events\\Default Work Unit\\Foleys\\Land\\Play_Foley_Remi_Land_Materials",
+      "GUID": "{A6427021-2B2E-4CAC-9A14-00DC9C472C64}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.25045833",
+      "DurationMax": "0.3643125",
+      "AuxBusRefs": [
+       {
+        "Id": "1710991347",
+        "Name": "Bus_RVb_Cave_Purple",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Bus_Ambience\\Bus_RVb_Cave_Purple",
+        "GUID": "{EB9EC2A3-4172-4D42-A6A8-EB41033B7D4E}"
+       },
+       {
+        "Id": "3249726050",
+        "Name": "Bus_RVB_Cave_Forest",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Bus_Ambience\\Bus_RVB_Cave_Forest",
+        "GUID": "{42B76DAA-704D-4CF9-A56B-553EACA55FCE}"
+       },
+       {
+        "Id": "4272489413",
+        "Name": "Bus_RVB_Cave_Blue",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Bus_Ambience\\Bus_RVB_Cave_Blue",
+        "GUID": "{7739B8B3-082F-435F-8DA7-59852F42F085}"
+       }
+      ],
+      "SwitchContainers": [
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "748711053",
+         "Id": "2932679629",
+         "GUID": "{33F5E517-FCDD-47F7-83AF-8F67D3C1EE37}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "58459941"
+         },
+         {
+          "Id": "132841984"
+         },
+         {
+          "Id": "441413197"
+         },
+         {
+          "Id": "817350607"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "748711053",
+         "Id": "803837735",
+         "GUID": "{A148653E-1014-4F3D-ABFC-C896A8067E91}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "205510176"
+         },
+         {
+          "Id": "791008288"
+         },
+         {
+          "Id": "930574246"
+         },
+         {
+          "Id": "946891744"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "748711053",
+         "Id": "1100010280",
+         "GUID": "{44A09355-C4E2-40CF-BBD0-9F09ECB01115}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "10736698"
+         },
+         {
+          "Id": "318352530"
+         },
+         {
+          "Id": "440654129"
+         },
+         {
+          "Id": "799342202"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "748711053",
+         "Id": "2785673615",
+         "GUID": "{C531E5F7-2A36-456C-AF21-AD4A5A7BE124}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "68888001"
+         },
+         {
+          "Id": "246519746"
+         },
+         {
+          "Id": "351566940"
+         },
+         {
+          "Id": "750000837"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "Id": "830327831",
+      "Name": "Play_Foley_Remi_Land_Movement",
+      "ObjectPath": "\\Events\\Default Work Unit\\Foleys\\Land\\Play_Foley_Remi_Land_Movement",
+      "GUID": "{73775236-A113-408B-B307-0C9BB20A2E2A}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.27681616",
+      "DurationMax": "0.34456152",
+      "MediaRefs": [
+       {
+        "Id": "359125677"
+       }
+      ],
+      "AuxBusRefs": [
+       {
+        "Id": "1710991347",
+        "Name": "Bus_RVb_Cave_Purple",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Bus_Ambience\\Bus_RVb_Cave_Purple",
+        "GUID": "{EB9EC2A3-4172-4D42-A6A8-EB41033B7D4E}"
+       },
+       {
+        "Id": "3249726050",
+        "Name": "Bus_RVB_Cave_Forest",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Bus_Ambience\\Bus_RVB_Cave_Forest",
+        "GUID": "{42B76DAA-704D-4CF9-A56B-553EACA55FCE}"
+       },
+       {
+        "Id": "4272489413",
+        "Name": "Bus_RVB_Cave_Blue",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Bus_Ambience\\Bus_RVB_Cave_Blue",
+        "GUID": "{7739B8B3-082F-435F-8DA7-59852F42F085}"
+       }
+      ]
+     }
+    ],
+    "SwitchGroups": [
+     {
+      "Id": "111081514",
+      "Name": "Floor_Material_Jump",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Jump\\Floor_Material_Jump",
+      "GUID": "{99D3914B-A48D-4224-855E-5476BA48E8A4}",
+      "Switches": [
+       {
+        "Id": "803837735",
+        "Name": "Sand",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Jump\\Floor_Material_Jump\\Sand",
+        "GUID": "{1E0C8993-59FE-4360-B5AA-784C1962A964}"
+       },
+       {
+        "Id": "1100010280",
+        "Name": "Crystals",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Jump\\Floor_Material_Jump\\Crystals",
+        "GUID": "{8CACA207-C1DA-471E-95F5-63999519FF78}"
+       },
+       {
+        "Id": "2785673615",
+        "Name": "Corals",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Jump\\Floor_Material_Jump\\Corals",
+        "GUID": "{0206F064-1B90-475D-BBCA-CA206B1A973B}"
+       },
+       {
+        "Id": "2932679629",
+        "Name": "Vegetation",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Jump\\Floor_Material_Jump\\Vegetation",
+        "GUID": "{7A22AA39-8810-47A0-8985-CA6E55E2442F}"
+       }
+      ]
+     },
+     {
+      "Id": "748711053",
+      "Name": "Floor_Material_Land",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Land\\Floor_Material_Land",
+      "GUID": "{8DB64239-442B-4F85-BCA4-5A588EA6FC74}",
+      "Switches": [
+       {
+        "Id": "803837735",
+        "Name": "Sand",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Land\\Floor_Material_Land\\Sand",
+        "GUID": "{A148653E-1014-4F3D-ABFC-C896A8067E91}"
+       },
+       {
+        "Id": "1100010280",
+        "Name": "Crystals",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Land\\Floor_Material_Land\\Crystals",
+        "GUID": "{44A09355-C4E2-40CF-BBD0-9F09ECB01115}"
+       },
+       {
+        "Id": "2785673615",
+        "Name": "Corals",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Land\\Floor_Material_Land\\Corals",
+        "GUID": "{C531E5F7-2A36-456C-AF21-AD4A5A7BE124}"
+       },
+       {
+        "Id": "2932679629",
+        "Name": "Vegetation",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Land\\Floor_Material_Land\\Vegetation",
+        "GUID": "{33F5E517-FCDD-47F7-83AF-8F67D3C1EE37}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{BEDA1995-8456-5B4B-29BD-BC99F9F346FA}"
+ }
+}

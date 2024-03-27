@@ -30,11 +30,6 @@
 								<Switch Name="Sand" ID="{A148653E-1014-4F3D-ABFC-C896A8067E91}"/>
 							</ChildrenList>
 						</SwitchGroup>
-						<SwitchGroup Name="Movement_Land" ID="{3E9DD183-CBC2-4413-A897-FA603F0E81D5}">
-							<ChildrenList>
-								<Switch Name="Movements" ID="{60CB6209-D13F-4EB1-B212-7304820CC020}"/>
-							</ChildrenList>
-						</SwitchGroup>
 					</ChildrenList>
 				</Folder>
 			</ChildrenList>

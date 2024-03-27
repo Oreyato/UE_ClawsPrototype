@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{9FFF905C-21D9-4968-ABD5-0AE94D923224}" SchemaVersion="119">
 	<SoundBanks>
-		<WorkUnit Name="Default Work Unit" ID="{9FFF905C-21D9-4968-ABD5-0AE94D923224}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{9FFF905C-21D9-4968-ABD5-0AE94D923224}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Ambiences" ID="{C3F3DAB7-9A4F-47BF-BEA0-59F080638F2C}">
+					<ObjectInclusionList>
+						<ObjectRef Name="RTPC_Fade_In" ID="{F9F0E369-62B1-40C1-AAC0-60FA66127FD5}" WorkUnitID="{44DB294E-6C77-4412-A900-C5ACF999BAA5}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Ambiences" ID="{6A82D2A7-2BB0-4908-A8FD-3068F50DA788}" WorkUnitID="{44DB294E-6C77-4412-A900-C5ACF999BAA5}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Foleys" ID="{7282AAB3-2A0D-42A9-8DB5-CEF139DCBCF0}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_Foley_Remi_Jump_Materials" ID="{E782ED33-6E57-407A-A69F-B6CF6E8FF0BA}" WorkUnitID="{44DB294E-6C77-4412-A900-C5ACF999BAA5}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Foley_Remi_Land_Movement" ID="{73775236-A113-408B-B307-0C9BB20A2E2A}" WorkUnitID="{44DB294E-6C77-4412-A900-C5ACF999BAA5}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Foleys" ID="{0D258E8C-DBB5-4187-A1CF-3C0420A5FE54}" WorkUnitID="{44DB294E-6C77-4412-A900-C5ACF999BAA5}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Foley_Remi_Jump_Movement" ID="{DE903F1C-18DA-488F-A04F-E5C14D2C3C84}" WorkUnitID="{44DB294E-6C77-4412-A900-C5ACF999BAA5}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Foley_Remi_Land_Materials" ID="{A6427021-2B2E-4CAC-9A14-00DC9C472C64}" WorkUnitID="{44DB294E-6C77-4412-A900-C5ACF999BAA5}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
 	</SoundBanks>
 </WwiseDocument>

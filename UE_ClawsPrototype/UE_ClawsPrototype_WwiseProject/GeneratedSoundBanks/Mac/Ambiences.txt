@@ -1,0 +1,18 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1135862586	AMB_Cave_Purple			\Default Work Unit\Ambiences\AMB_Cave_Purple	
+	1359743479	AMB_Cave_Forest			\Default Work Unit\Ambiences\AMB_Cave_Forest	
+	1555321456	AMB_Cave_Pink			\Default Work Unit\Ambiences\AMB_Cave_Pink	
+	2339989177	RTPC_Fade_In			\Default Work Unit\RTPC_Fade_In	
+	3523742407	AMB_Cave_Garden			\Default Work Unit\Ambiences\AMB_Cave_Garden	
+	3968835344	AMB_Cave_Blue			\Default Work Unit\Ambiences\AMB_Cave_Blue	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3968110791	Fade_In			\Default Work Unit\Fade_In	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	535217	AMBIENT_Cave_Forest	C:\Users\aless\Documents\GitHub\UE_ClawsPrototype\UE_ClawsPrototype\UE_ClawsPrototype_WwiseProject\.cache\Mac\SFX\AMBIENT_Cave_Forest_FBC78EF0.wem		\Actor-Mixer Hierarchy\Ambience\Ambience\AMBIENT_Cave_Forest		5760096
+	16938370	AMBIENT_Cave_Garden	C:\Users\aless\Documents\GitHub\UE_ClawsPrototype\UE_ClawsPrototype\UE_ClawsPrototype_WwiseProject\.cache\Mac\SFX\AMBIENT_Cave_Garden_FBC78EF0.wem		\Actor-Mixer Hierarchy\Ambience\Ambience\AMBIENT_Cave_Garden		5760096
+	356174085	AMBIENT_Cave_Pink	C:\Users\aless\Documents\GitHub\UE_ClawsPrototype\UE_ClawsPrototype\UE_ClawsPrototype_WwiseProject\.cache\Mac\SFX\AMBIENT_Cave_Pink_FBC78EF0.wem		\Actor-Mixer Hierarchy\Ambience\Ambience\AMBIENT_Cave_Pink		5760096
+	394465087	AMBIENT_Cave_Purple	C:\Users\aless\Documents\GitHub\UE_ClawsPrototype\UE_ClawsPrototype\UE_ClawsPrototype_WwiseProject\.cache\Mac\SFX\AMBIENT_Cave_Purple_FBC78EF0.wem		\Actor-Mixer Hierarchy\Ambience\Ambience\AMBIENT_Cave_Purple		5760096
+	454217104	AMBIENT_Cave_Blue	C:\Users\aless\Documents\GitHub\UE_ClawsPrototype\UE_ClawsPrototype\UE_ClawsPrototype_WwiseProject\.cache\Mac\SFX\AMBIENT_Cave_Blue_11A93380.wem		\Actor-Mixer Hierarchy\Ambience\Ambience\AMBIENT_Cave_Blue		5760096
+

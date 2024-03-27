@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="1017660616" Type="User" GUID="{C3F3DAB7-9A4F-47BF-BEA0-59F080638F2C}" Language="SFX" Hash="{E903A03A-3734-7E50-DCA7-5CC41FC0E432}">
+			<ObjectPath>\SoundBanks\Default Work Unit\Ambiences</ObjectPath>
+			<ShortName>Ambiences</ShortName>
+			<Path>Ambiences.bnk</Path>
+			<Media>
+				<File Id="535217" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>AMBIENT_Cave_Forest.wav</ShortName>
+					<CachePath>SFX/AMBIENT_Cave_Forest_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="16938370" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>AMBIENT_Cave_Garden.wav</ShortName>
+					<CachePath>SFX/AMBIENT_Cave_Garden_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="356174085" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>AMBIENT_Cave_Pink.wav</ShortName>
+					<CachePath>SFX/AMBIENT_Cave_Pink_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="394465087" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>AMBIENT_Cave_Purple.wav</ShortName>
+					<CachePath>SFX/AMBIENT_Cave_Purple_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="454217104" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>AMBIENT_Cave_Blue.wav</ShortName>
+					<CachePath>SFX/AMBIENT_Cave_Blue_11A93380.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="3968835344" Name="AMB_Cave_Blue" ObjectPath="\Events\Default Work Unit\Ambiences\AMB_Cave_Blue" GUID="{D25C5FBF-1624-44FF-9564-7C21213DADD8}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="454217104"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="4272489413" Name="Bus_RVB_Cave_Blue" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Bus_Ambience\Bus_RVB_Cave_Blue" GUID="{7739B8B3-082F-435F-8DA7-59852F42F085}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="1359743479" Name="AMB_Cave_Forest" ObjectPath="\Events\Default Work Unit\Ambiences\AMB_Cave_Forest" GUID="{913392E1-56CD-457E-A406-91786E2E88B3}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="535217"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3523742407" Name="AMB_Cave_Garden" ObjectPath="\Events\Default Work Unit\Ambiences\AMB_Cave_Garden" GUID="{CB15ED91-80A6-479D-A52B-734D660E3A0F}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="16938370"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1555321456" Name="AMB_Cave_Pink" ObjectPath="\Events\Default Work Unit\Ambiences\AMB_Cave_Pink" GUID="{5E296A1D-5D3C-42CD-ABA8-D5267F2722AC}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="356174085"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1135862586" Name="AMB_Cave_Purple" ObjectPath="\Events\Default Work Unit\Ambiences\AMB_Cave_Purple" GUID="{2E847E52-004D-45A4-9408-BE08960C8467}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="394465087"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2339989177" Name="RTPC_Fade_In" ObjectPath="\Events\Default Work Unit\RTPC_Fade_In" GUID="{F9F0E369-62B1-40C1-AAC0-60FA66127FD5}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+			<GameParameters>
+				<GameParameter Id="3968110791" Name="Fade_In" ObjectPath="\Game Parameters\Default Work Unit\Fade_In" GUID="{DF206D75-C9DF-49AE-8AD0-9ED9A2155172}"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{79BA422D-5C1A-858D-545D-41AC5C3476C8}</FileHash>
+</SoundBanksInfo>

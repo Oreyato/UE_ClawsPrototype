@@ -8,6 +8,22 @@
 					<CurrentStateList ShowAll="true"/>
 					<CurrentSwitchList ShowAll="true"/>
 				</SoundcasterSession>
+				<SoundcasterSession Name="New Soundcaster Session_01" ID="{5D56D8B9-97BD-4287-B7FE-711C9A5BE018}">
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="Fade_In" ID="{DF206D75-C9DF-49AE-8AD0-9ED9A2155172}"/>
+							<Value>1</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="None" ID="{C0B1A4CF-96ED-48D9-94FC-385691C7AB64}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="Corals" ID="{0206F064-1B90-475D-BBCA-CA206B1A973B}"/>
+						<CurrentSwitchRef Name="Movements" ID="{C00E5C72-AE4D-4213-BCC7-4FE679347035}"/>
+						<CurrentSwitchRef Name="Corals" ID="{C531E5F7-2A36-456C-AF21-AD4A5A7BE124}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
 			</ChildrenList>
 		</WorkUnit>
 	</SoundcasterSessions>

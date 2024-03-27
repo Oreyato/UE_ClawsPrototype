@@ -16,7 +16,14 @@
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 							</PropertyList>
 							<ChildrenList>
-								<AuxBus Name="Bus_AMB_Cave_Blue" ID="{7739B8B3-082F-435F-8DA7-59852F42F085}">
+								<AuxBus Name="Bus_RVB_Cave_Blue" ID="{7739B8B3-082F-435F-8DA7-59852F42F085}">
+									<PropertyList>
+										<Property Name="BusVolume" Type="Real64">
+											<ValueList>
+												<Value>-8</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
 									<StateInfo>
 										<StateGroupList>
 											<StateGroupInfo>
@@ -78,7 +85,7 @@
 										</ObjectList>
 									</ObjectLists>
 								</AuxBus>
-								<AuxBus Name="Bus_AMB_Cave_Purple" ID="{EB9EC2A3-4172-4D42-A6A8-EB41033B7D4E}">
+								<AuxBus Name="Bus_RVb_Cave_Purple" ID="{EB9EC2A3-4172-4D42-A6A8-EB41033B7D4E}">
 									<StateInfo>
 										<StateGroupList>
 											<StateGroupInfo>
@@ -140,7 +147,7 @@
 										</ObjectList>
 									</ObjectLists>
 								</AuxBus>
-								<AuxBus Name="Bus_AMB_Cave_Forest" ID="{42B76DAA-704D-4CF9-A56B-553EACA55FCE}">
+								<AuxBus Name="Bus_RVB_Cave_Forest" ID="{42B76DAA-704D-4CF9-A56B-553EACA55FCE}">
 									<StateInfo>
 										<StateGroupList>
 											<StateGroupInfo>
@@ -224,8 +231,8 @@
 										</ObjectList>
 									</ObjectLists>
 								</AuxBus>
-								<AuxBus Name="Bus_AMB_Cave_Garden" ID="{D21C99BD-EC21-46B9-A36E-E3B66C937B40}"/>
-								<AuxBus Name="Bus_AMB_Cave_Pink" ID="{13559916-53B9-40F5-AE9B-0A99531610FF}"/>
+								<AuxBus Name="Bus_RVB_Cave_Garden" ID="{D21C99BD-EC21-46B9-A36E-E3B66C937B40}"/>
+								<AuxBus Name="Bus_RVB_Cave_Pink" ID="{13559916-53B9-40F5-AE9B-0A99531610FF}"/>
 							</ChildrenList>
 						</Bus>
 						<Bus Name="Bus_Foley" ID="{B1567F55-AAA5-4FF9-9B3D-A5339D411B94}">

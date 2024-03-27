@@ -14,6 +14,162 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Folder Name="Foleys" ID="{0D258E8C-DBB5-4187-A1CF-3C0420A5FE54}" ShortID="1029555931">
+					<ChildrenList>
+						<Folder Name="Land" ID="{E9A71902-7748-408B-B375-FF21240C1AAA}" ShortID="903746284">
+							<ChildrenList>
+								<Event Name="Play_Foley_Remi_Land_Materials" ID="{A6427021-2B2E-4CAC-9A14-00DC9C472C64}">
+									<ChildrenList>
+										<Action Name="" ID="{9DF4CF14-021E-426A-80AE-91E8D2FE2573}" ShortID="755115651">
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Foley_Remi_Land_Materials" ID="{ADAEEBBC-5358-4B14-97B3-80EA6A6359C5}" WorkUnitID="{23A9E730-6B37-4477-8E70-47FEB11C358E}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
+								<Event Name="Play_Foley_Remi_Land_Movement" ID="{73775236-A113-408B-B307-0C9BB20A2E2A}">
+									<ChildrenList>
+										<Action Name="" ID="{B3FD1917-A6FA-486F-934F-69F668525BF9}" ShortID="981052863">
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Foley_Remi_Land_Hards" ID="{6A367F5B-0CAA-4FCF-BCF2-F18EC14AFB54}" WorkUnitID="{23A9E730-6B37-4477-8E70-47FEB11C358E}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
+							</ChildrenList>
+						</Folder>
+						<Folder Name="Jump" ID="{D8CD5CE5-05C8-47C5-961F-DD845A6886B6}" ShortID="665133054">
+							<ChildrenList>
+								<Event Name="Play_Foley_Remi_Jump_Materials" ID="{E782ED33-6E57-407A-A69F-B6CF6E8FF0BA}">
+									<ChildrenList>
+										<Action Name="" ID="{B16AB72B-2FA3-41F4-87CE-6BEC394D0862}" ShortID="636346090">
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Foley_Remi_Jump_Materials" ID="{414E26BB-E6E4-4209-9CF7-65C2074476B0}" WorkUnitID="{23A9E730-6B37-4477-8E70-47FEB11C358E}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
+								<Event Name="Play_Foley_Remi_Jump_Movement" ID="{DE903F1C-18DA-488F-A04F-E5C14D2C3C84}">
+									<ChildrenList>
+										<Action Name="" ID="{E425DCBF-CAA7-41F9-B544-28DE81D0DA5E}" ShortID="259717775">
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Foley_Remi_Jump_Hards" ID="{185742AC-FCF6-4DFD-9BE6-4BF20CD365AF}" WorkUnitID="{23A9E730-6B37-4477-8E70-47FEB11C358E}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
+							</ChildrenList>
+						</Folder>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Ambiences" ID="{6A82D2A7-2BB0-4908-A8FD-3068F50DA788}" ShortID="788081372">
+					<ChildrenList>
+						<Event Name="AMB_Cave_Purple" ID="{2E847E52-004D-45A4-9408-BE08960C8467}">
+							<ChildrenList>
+								<Action Name="" ID="{DDB4CD90-3637-4AE0-8FA7-1A0CFC4DCB11}" ShortID="294848547">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="AMBIENT_Cave_Purple" ID="{D98C95DA-C4EE-4618-9FC8-F0B26A853FED}" WorkUnitID="{1DCB5530-14CE-416A-ABC8-781FAADE7D2F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="AMB_Cave_Pink" ID="{5E296A1D-5D3C-42CD-ABA8-D5267F2722AC}">
+							<ChildrenList>
+								<Action Name="" ID="{1633E472-2B8F-4EAC-AB41-778273AB62EC}" ShortID="421274978">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="AMBIENT_Cave_Pink" ID="{029F5A8D-8115-43D5-874E-498B6D08D40E}" WorkUnitID="{1DCB5530-14CE-416A-ABC8-781FAADE7D2F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="AMB_Cave_Forest" ID="{913392E1-56CD-457E-A406-91786E2E88B3}">
+							<ChildrenList>
+								<Action Name="" ID="{DEE09F7C-BF7D-44B7-B9B7-4A947094F023}" ShortID="262581041">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="AMBIENT_Cave_Forest" ID="{97BB844D-E77F-4986-9EC7-334B3B334B4D}" WorkUnitID="{1DCB5530-14CE-416A-ABC8-781FAADE7D2F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="AMB_Cave_Garden" ID="{CB15ED91-80A6-479D-A52B-734D660E3A0F}">
+							<ChildrenList>
+								<Action Name="" ID="{C49A61F7-6E45-4E53-8F32-7EEBB878DEB4}" ShortID="263212169">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="AMBIENT_Cave_Garden" ID="{307DCA7B-DC82-4596-A85C-F27DCB8F417F}" WorkUnitID="{1DCB5530-14CE-416A-ABC8-781FAADE7D2F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="AMB_Cave_Blue" ID="{D25C5FBF-1624-44FF-9564-7C21213DADD8}">
+							<ChildrenList>
+								<Action Name="" ID="{FE5F26EC-55AD-4C28-AA7D-9F757E17055B}" ShortID="723158859">
+									<PropertyList>
+										<Property Name="FadeInCurve" Type="int16" Value="6"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="AMBIENT_Cave_Blue" ID="{DDE9A789-4FE8-4501-B923-A1FA0E662E6B}" WorkUnitID="{1DCB5530-14CE-416A-ABC8-781FAADE7D2F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Event Name="RTPC_Fade_In" ID="{F9F0E369-62B1-40C1-AAC0-60FA66127FD5}">
+					<ChildrenList>
+						<Action Name="" ID="{955A7C0D-785B-4674-93DA-544484AF054A}" ShortID="305102789">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="38"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Fade_In" ID="{DF206D75-C9DF-49AE-8AD0-9ED9A2155172}" WorkUnitID="{C38CC755-884B-4438-A675-BDD72A7EF7AB}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{13976CCD-29C2-4AA5-B21F-3F5C53F80136}" ShortID="359116294">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="38"/>
+								<Property Name="FadeTime" Type="Real64" Value="2">
+									<ModifierList>
+										<ModifierInfo>
+											<Modifier Name="" ID="{03A5F1A5-87C9-4E7B-9E49-803ED1C1B5A5}"/>
+										</ModifierInfo>
+									</ModifierList>
+								</Property>
+								<Property Name="GameParameterValue" Type="Real64" Value="1">
+									<ModifierList>
+										<ModifierInfo>
+											<Modifier Name="" ID="{D76BB329-F7B7-479C-BF7F-F1D4F0D5AEF2}"/>
+										</ModifierInfo>
+									</ModifierList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Fade_In" ID="{DF206D75-C9DF-49AE-8AD0-9ED9A2155172}" WorkUnitID="{C38CC755-884B-4438-A675-BDD72A7EF7AB}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
