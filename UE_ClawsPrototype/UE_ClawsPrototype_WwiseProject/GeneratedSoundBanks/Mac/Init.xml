@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
 	<SoundBanks>
-		<SoundBank Id="1355168291" Type="User" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="{FF4AA13A-6029-D246-B458-5E5E7C384FEB}">
+		<SoundBank Id="1355168291" Type="User" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="{E5B69D03-8FC0-3AB9-3697-7C89910C581D}">
 			<ObjectPath>Init</ObjectPath>
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
@@ -52,7 +52,10 @@
 				</AuxBus>
 			</AuxBusses>
 			<GameParameters>
-				<GameParameter Id="3968110791" Name="Fade_In" ObjectPath="\Game Parameters\Default Work Unit\Fade_In" GUID="{DF206D75-C9DF-49AE-8AD0-9ED9A2155172}"/>
+				<GameParameter Id="1162979099" Name="Fade_Out_Purple" ObjectPath="\Game Parameters\Default Work Unit\Fade_Cave_Purple\Fade_Out_Purple" GUID="{5C0D7B6B-B442-4116-9897-95F3487D02F2}"/>
+				<GameParameter Id="2251122765" Name="Fade_Out_Blue" ObjectPath="\Game Parameters\Default Work Unit\Fade_Cave_Blue\Fade_Out_Blue" GUID="{CA587E6F-030C-4162-B31F-03B5BCBC770A}"/>
+				<GameParameter Id="3665050084" Name="Fade_In_Purple" ObjectPath="\Game Parameters\Default Work Unit\Fade_Cave_Purple\Fade_In_Purple" GUID="{E7DCDBFE-1C42-4A12-98D8-0525B264501D}"/>
+				<GameParameter Id="3914319474" Name="Fade_In_Blue" ObjectPath="\Game Parameters\Default Work Unit\Fade_Cave_Blue\Fade_In_Blue" GUID="{DF206D75-C9DF-49AE-8AD0-9ED9A2155172}"/>
 			</GameParameters>
 			<StateGroups>
 				<StateGroup Id="1755969671" Name="RVB_Ambiences" ObjectPath="\States\Default Work Unit\RVB_Ambiences" GUID="{ACBA6F10-55D1-44A6-94A1-0641C5A4CA55}">
@@ -89,5 +92,5 @@
 			</SwitchGroups>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{A4BA1B9C-F98D-14A6-5F56-7D54FF937306}</FileHash>
+	<FileHash>{4F82DC38-B460-BD37-0442-883755E4C1E0}</FileHash>
 </SoundBanksInfo>

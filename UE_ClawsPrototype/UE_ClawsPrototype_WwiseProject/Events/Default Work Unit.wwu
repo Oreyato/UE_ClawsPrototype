@@ -130,46 +130,177 @@
 								</Action>
 							</ChildrenList>
 						</Event>
+						<Folder Name="Fade_Blue" ID="{92250A56-8261-4DE3-9118-19BE6C8CB591}" ShortID="423752124">
+							<ChildrenList>
+								<Event Name="RTPC_Fade_In_Blue" ID="{F9F0E369-62B1-40C1-AAC0-60FA66127FD5}">
+									<ChildrenList>
+										<Action Name="" ID="{955A7C0D-785B-4674-93DA-544484AF054A}" ShortID="305102789">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="38"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Fade_In_Blue" ID="{DF206D75-C9DF-49AE-8AD0-9ED9A2155172}" WorkUnitID="{C38CC755-884B-4438-A675-BDD72A7EF7AB}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+										<Action Name="" ID="{13976CCD-29C2-4AA5-B21F-3F5C53F80136}" ShortID="359116294">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="38"/>
+												<Property Name="FadeTime" Type="Real64" Value="2">
+													<ModifierList>
+														<ModifierInfo>
+															<Modifier Name="" ID="{03A5F1A5-87C9-4E7B-9E49-803ED1C1B5A5}"/>
+														</ModifierInfo>
+													</ModifierList>
+												</Property>
+												<Property Name="GameParameterValue" Type="Real64" Value="1">
+													<ModifierList>
+														<ModifierInfo>
+															<Modifier Name="" ID="{D76BB329-F7B7-479C-BF7F-F1D4F0D5AEF2}"/>
+														</ModifierInfo>
+													</ModifierList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Fade_In_Blue" ID="{DF206D75-C9DF-49AE-8AD0-9ED9A2155172}" WorkUnitID="{C38CC755-884B-4438-A675-BDD72A7EF7AB}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
+								<Event Name="RTPC_Fade_Out_Blue" ID="{737C9598-5E3C-45EC-8F61-B248EF46644D}">
+									<ChildrenList>
+										<Action Name="" ID="{0F11D163-C8FC-433A-9ECA-E6BCCF576F3D}" ShortID="209951984">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="38"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Fade_Out_Blue" ID="{CA587E6F-030C-4162-B31F-03B5BCBC770A}" WorkUnitID="{C38CC755-884B-4438-A675-BDD72A7EF7AB}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+										<Action Name="" ID="{70FBF4D6-9E05-4AA9-B73C-2D1EA6021334}" ShortID="207216704">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="38"/>
+												<Property Name="FadeTime" Type="Real64" Value="2"/>
+												<Property Name="GameParameterValue" Type="Real64" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Fade_Out_Blue" ID="{CA587E6F-030C-4162-B31F-03B5BCBC770A}" WorkUnitID="{C38CC755-884B-4438-A675-BDD72A7EF7AB}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
+							</ChildrenList>
+						</Folder>
+						<Folder Name="Fade_Purple" ID="{128970FF-6649-492C-BF6F-982A922C243C}" ShortID="547470298">
+							<ChildrenList>
+								<Event Name="RTPC_Fade_In_Purple" ID="{516BA6FB-6246-4D76-86BC-5E0E0BDBAB47}">
+									<ChildrenList>
+										<Action Name="" ID="{DD1E69F1-C852-4BFE-AAFA-AA294BC7129C}" ShortID="370263995">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="38"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Fade_In_Purple" ID="{E7DCDBFE-1C42-4A12-98D8-0525B264501D}" WorkUnitID="{C38CC755-884B-4438-A675-BDD72A7EF7AB}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+										<Action Name="" ID="{0CDCE5C8-85B0-488A-85F4-24F254B8A5AF}" ShortID="895173251">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="38"/>
+												<Property Name="FadeTime" Type="Real64" Value="2"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Fade_In_Purple" ID="{E7DCDBFE-1C42-4A12-98D8-0525B264501D}" WorkUnitID="{C38CC755-884B-4438-A675-BDD72A7EF7AB}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
+								<Event Name="RTPC_Fade_Out_Purple" ID="{1E53FF86-E7DC-411B-B2EB-29B291786ED4}">
+									<ChildrenList>
+										<Action Name="" ID="{E29DFA54-687C-4611-B387-0F551836B65F}" ShortID="898236845">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="38"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Fade_Out_Purple" ID="{5C0D7B6B-B442-4116-9897-95F3487D02F2}" WorkUnitID="{C38CC755-884B-4438-A675-BDD72A7EF7AB}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+										<Action Name="" ID="{D418FF20-AB46-44CD-A643-EE4FEB6F62BD}" ShortID="148718088">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="38"/>
+												<Property Name="FadeTime" Type="Real64" Value="2"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Fade_Out_Purple" ID="{5C0D7B6B-B442-4116-9897-95F3487D02F2}" WorkUnitID="{C38CC755-884B-4438-A675-BDD72A7EF7AB}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
+							</ChildrenList>
+						</Folder>
 					</ChildrenList>
 				</Folder>
-				<Event Name="RTPC_Fade_In" ID="{F9F0E369-62B1-40C1-AAC0-60FA66127FD5}">
+				<Folder Name="SFX" ID="{257B88C7-0A44-473A-9632-CF43DCC12B44}" ShortID="10979565">
 					<ChildrenList>
-						<Action Name="" ID="{955A7C0D-785B-4674-93DA-544484AF054A}" ShortID="305102789">
-							<PropertyList>
-								<Property Name="ActionType" Type="int16" Value="38"/>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Fade_In" ID="{DF206D75-C9DF-49AE-8AD0-9ED9A2155172}" WorkUnitID="{C38CC755-884B-4438-A675-BDD72A7EF7AB}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-						<Action Name="" ID="{13976CCD-29C2-4AA5-B21F-3F5C53F80136}" ShortID="359116294">
-							<PropertyList>
-								<Property Name="ActionType" Type="int16" Value="38"/>
-								<Property Name="FadeTime" Type="Real64" Value="2">
-									<ModifierList>
-										<ModifierInfo>
-											<Modifier Name="" ID="{03A5F1A5-87C9-4E7B-9E49-803ED1C1B5A5}"/>
-										</ModifierInfo>
-									</ModifierList>
-								</Property>
-								<Property Name="GameParameterValue" Type="Real64" Value="1">
-									<ModifierList>
-										<ModifierInfo>
-											<Modifier Name="" ID="{D76BB329-F7B7-479C-BF7F-F1D4F0D5AEF2}"/>
-										</ModifierInfo>
-									</ModifierList>
-								</Property>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Fade_In" ID="{DF206D75-C9DF-49AE-8AD0-9ED9A2155172}" WorkUnitID="{C38CC755-884B-4438-A675-BDD72A7EF7AB}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
+						<Event Name="WaterClaw_Start" ID="{6CB18FD8-AF5F-469A-86FC-519C50690ACF}">
+							<ChildrenList>
+								<Action Name="" ID="{41AF7442-1E46-453B-83CD-E59E1EC4D099}" ShortID="745694796">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="SFX_WATERCLAW_Use_Start" ID="{06BF68D5-DC98-44AC-B87A-9FB37BE97B5A}" WorkUnitID="{FD862FAF-FEAD-4355-92CC-B128A06ABE16}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="WaterClaw_Loop" ID="{886B5953-DD19-4B24-953E-75DF6181E06E}">
+							<ChildrenList>
+								<Action Name="" ID="{5C587ECE-15CE-4AC0-90ED-A61005FF90A3}" ShortID="257249930">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="SFX_WATERCLAW_Use_Lp" ID="{AC68D59E-4AA2-4589-BD3D-581F55994D80}" WorkUnitID="{FD862FAF-FEAD-4355-92CC-B128A06ABE16}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{CF6431BA-296E-4BEB-8A1A-8AD455C7989F}" ShortID="968072907">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="2"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="SFX_WATERCLAW_Use_Lp" ID="{AC68D59E-4AA2-4589-BD3D-581F55994D80}" WorkUnitID="{FD862FAF-FEAD-4355-92CC-B128A06ABE16}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="WaterClaw_End" ID="{55F8129D-EB47-44A7-B027-D5EB5BFF6688}">
+							<ChildrenList>
+								<Action Name="" ID="{50DF335B-4387-4956-A0F1-DB474D996178}" ShortID="551500399">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="SFX_WATERCLAW_Use_End" ID="{2BCB5AAB-366E-4333-AEAA-032284969F5F}" WorkUnitID="{FD862FAF-FEAD-4355-92CC-B128A06ABE16}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
-				</Event>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

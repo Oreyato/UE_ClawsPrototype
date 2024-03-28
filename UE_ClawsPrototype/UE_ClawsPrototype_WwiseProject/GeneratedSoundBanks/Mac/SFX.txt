@@ -1,0 +1,10 @@
+Event	ID	Name			Wwise Object Path	Notes
+	260712780	WaterClaw_Loop			\Default Work Unit\SFX\WaterClaw_Loop	
+	390746618	WaterClaw_Start			\Default Work Unit\SFX\WaterClaw_Start	
+	2302808025	WaterClaw_End			\Default Work Unit\SFX\WaterClaw_End	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	210434520	SFX_WATERCLAW_Use_End	C:\Users\aless\Documents\GitHub\UE_ClawsPrototype\UE_ClawsPrototype\UE_ClawsPrototype_WwiseProject\.cache\Mac\SFX\SFX_WATERCLAW_Use_End_B49D5059.wem		\Actor-Mixer Hierarchy\FX\WaterClaw\SFX_WaterClaw\SFX_WATERCLAW_Use_End		82752
+	417558479	SFX_WATERCLAW_Use_Lp	C:\Users\aless\Documents\GitHub\UE_ClawsPrototype\UE_ClawsPrototype\UE_ClawsPrototype_WwiseProject\.cache\Mac\SFX\SFX_WATERCLAW_Use_Lp_11A93380.wem		\Actor-Mixer Hierarchy\FX\WaterClaw\SFX_WaterClaw\SFX_WATERCLAW_Use_Lp		598496
+	793010801	SFX_WATERCLAW_Use_Start	C:\Users\aless\Documents\GitHub\UE_ClawsPrototype\UE_ClawsPrototype\UE_ClawsPrototype_WwiseProject\.cache\Mac\SFX\SFX_WATERCLAW_Use_Start_818F3B66.wem		\Actor-Mixer Hierarchy\FX\WaterClaw\SFX_WaterClaw\SFX_WATERCLAW_Use_Start		253724
+

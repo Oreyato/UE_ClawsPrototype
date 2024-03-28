@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
 	<SoundBanks>
-		<SoundBank Id="4035004657" Type="User" GUID="{7282AAB3-2A0D-42A9-8DB5-CEF139DCBCF0}" Language="SFX" Hash="{D549C50E-F8BF-3FC9-A852-E134B9BD4F8A}">
+		<SoundBank Id="4035004657" Type="User" GUID="{7282AAB3-2A0D-42A9-8DB5-CEF139DCBCF0}" Language="SFX" Hash="{7B80C0C7-9C2C-41CF-A00B-F05F9720454D}">
 			<ObjectPath>\SoundBanks\Default Work Unit\Foleys</ObjectPath>
 			<ShortName>Foleys</ShortName>
 			<Path>Foleys.bnk</Path>
@@ -145,11 +145,6 @@
 			</Media>
 			<Events>
 				<Event Id="3687158001" Name="Play_Foley_Remi_Jump_Materials" ObjectPath="\Events\Default Work Unit\Foleys\Jump\Play_Foley_Remi_Jump_Materials" GUID="{E782ED33-6E57-407A-A69F-B6CF6E8FF0BA}" DurationType="OneShot" DurationMin="0.25685862" DurationMax="0.49747038">
-					<AuxBusRefs>
-						<AuxBusRef Id="1710991347" Name="Bus_RVb_Cave_Purple" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Bus_Ambience\Bus_RVb_Cave_Purple" GUID="{EB9EC2A3-4172-4D42-A6A8-EB41033B7D4E}"/>
-						<AuxBusRef Id="3249726050" Name="Bus_RVB_Cave_Forest" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Bus_Ambience\Bus_RVB_Cave_Forest" GUID="{42B76DAA-704D-4CF9-A56B-553EACA55FCE}"/>
-						<AuxBusRef Id="4272489413" Name="Bus_RVB_Cave_Blue" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Bus_Ambience\Bus_RVB_Cave_Blue" GUID="{7739B8B3-082F-435F-8DA7-59852F42F085}"/>
-					</AuxBusRefs>
 					<SwitchContainers>
 						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="111081514" Id="1100010280" GUID="{8CACA207-C1DA-471E-95F5-63999519FF78}"/>
@@ -193,18 +188,8 @@
 					<MediaRefs>
 						<MediaRef Id="273254375"/>
 					</MediaRefs>
-					<AuxBusRefs>
-						<AuxBusRef Id="1710991347" Name="Bus_RVb_Cave_Purple" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Bus_Ambience\Bus_RVb_Cave_Purple" GUID="{EB9EC2A3-4172-4D42-A6A8-EB41033B7D4E}"/>
-						<AuxBusRef Id="3249726050" Name="Bus_RVB_Cave_Forest" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Bus_Ambience\Bus_RVB_Cave_Forest" GUID="{42B76DAA-704D-4CF9-A56B-553EACA55FCE}"/>
-						<AuxBusRef Id="4272489413" Name="Bus_RVB_Cave_Blue" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Bus_Ambience\Bus_RVB_Cave_Blue" GUID="{7739B8B3-082F-435F-8DA7-59852F42F085}"/>
-					</AuxBusRefs>
 				</Event>
 				<Event Id="2900815882" Name="Play_Foley_Remi_Land_Materials" ObjectPath="\Events\Default Work Unit\Foleys\Land\Play_Foley_Remi_Land_Materials" GUID="{A6427021-2B2E-4CAC-9A14-00DC9C472C64}" DurationType="OneShot" DurationMin="0.25045833" DurationMax="0.3643125">
-					<AuxBusRefs>
-						<AuxBusRef Id="1710991347" Name="Bus_RVb_Cave_Purple" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Bus_Ambience\Bus_RVb_Cave_Purple" GUID="{EB9EC2A3-4172-4D42-A6A8-EB41033B7D4E}"/>
-						<AuxBusRef Id="3249726050" Name="Bus_RVB_Cave_Forest" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Bus_Ambience\Bus_RVB_Cave_Forest" GUID="{42B76DAA-704D-4CF9-A56B-553EACA55FCE}"/>
-						<AuxBusRef Id="4272489413" Name="Bus_RVB_Cave_Blue" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Bus_Ambience\Bus_RVB_Cave_Blue" GUID="{7739B8B3-082F-435F-8DA7-59852F42F085}"/>
-					</AuxBusRefs>
 					<SwitchContainers>
 						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="748711053" Id="2932679629" GUID="{33F5E517-FCDD-47F7-83AF-8F67D3C1EE37}"/>
@@ -248,11 +233,6 @@
 					<MediaRefs>
 						<MediaRef Id="359125677"/>
 					</MediaRefs>
-					<AuxBusRefs>
-						<AuxBusRef Id="1710991347" Name="Bus_RVb_Cave_Purple" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Bus_Ambience\Bus_RVb_Cave_Purple" GUID="{EB9EC2A3-4172-4D42-A6A8-EB41033B7D4E}"/>
-						<AuxBusRef Id="3249726050" Name="Bus_RVB_Cave_Forest" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Bus_Ambience\Bus_RVB_Cave_Forest" GUID="{42B76DAA-704D-4CF9-A56B-553EACA55FCE}"/>
-						<AuxBusRef Id="4272489413" Name="Bus_RVB_Cave_Blue" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Bus_Ambience\Bus_RVB_Cave_Blue" GUID="{7739B8B3-082F-435F-8DA7-59852F42F085}"/>
-					</AuxBusRefs>
 				</Event>
 			</Events>
 			<SwitchGroups>
@@ -275,5 +255,5 @@
 			</SwitchGroups>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{68A2B1A5-EEC6-0497-C96F-DB8E59DBBBCB}</FileHash>
+	<FileHash>{0F74302D-018C-ED17-5032-D844468D6F86}</FileHash>
 </SoundBanksInfo>

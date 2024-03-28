@@ -1,13 +1,19 @@
 Event	ID	Name			Wwise Object Path	Notes
+	794026186	RTPC_Fade_In_Purple			\Default Work Unit\Ambiences\Fade_Purple\RTPC_Fade_In_Purple	
+	1038767552	RTPC_Fade_In_Blue			\Default Work Unit\Ambiences\Fade_Blue\RTPC_Fade_In_Blue	
 	1135862586	AMB_Cave_Purple			\Default Work Unit\Ambiences\AMB_Cave_Purple	
 	1359743479	AMB_Cave_Forest			\Default Work Unit\Ambiences\AMB_Cave_Forest	
+	1536013999	RTPC_Fade_Out_Blue			\Default Work Unit\Ambiences\Fade_Blue\RTPC_Fade_Out_Blue	
 	1555321456	AMB_Cave_Pink			\Default Work Unit\Ambiences\AMB_Cave_Pink	
-	2339989177	RTPC_Fade_In			\Default Work Unit\RTPC_Fade_In	
+	2728449685	RTPC_Fade_Out_Purple			\Default Work Unit\Ambiences\Fade_Purple\RTPC_Fade_Out_Purple	
 	3523742407	AMB_Cave_Garden			\Default Work Unit\Ambiences\AMB_Cave_Garden	
 	3968835344	AMB_Cave_Blue			\Default Work Unit\Ambiences\AMB_Cave_Blue	
 
 Game Parameter	ID	Name			Wwise Object Path	Notes
-	3968110791	Fade_In			\Default Work Unit\Fade_In	
+	1162979099	Fade_Out_Purple			\Default Work Unit\Fade_Cave_Purple\Fade_Out_Purple	
+	2251122765	Fade_Out_Blue			\Default Work Unit\Fade_Cave_Blue\Fade_Out_Blue	
+	3665050084	Fade_In_Purple			\Default Work Unit\Fade_Cave_Purple\Fade_In_Purple	
+	3914319474	Fade_In_Blue			\Default Work Unit\Fade_Cave_Blue\Fade_In_Blue	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	535217	AMBIENT_Cave_Forest	C:\Users\aless\Documents\GitHub\UE_ClawsPrototype\UE_ClawsPrototype\UE_ClawsPrototype_WwiseProject\.cache\Mac\SFX\AMBIENT_Cave_Forest_FBC78EF0.wem		\Actor-Mixer Hierarchy\Ambience\Ambience\AMBIENT_Cave_Forest		5760096

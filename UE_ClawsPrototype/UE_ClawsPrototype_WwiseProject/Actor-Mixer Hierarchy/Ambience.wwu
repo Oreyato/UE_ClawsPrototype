@@ -64,7 +64,7 @@
 												</PropertyList>
 												<ReferenceList>
 													<Reference Name="ControlInput">
-														<ObjectRef Name="Fade_In" ID="{DF206D75-C9DF-49AE-8AD0-9ED9A2155172}" WorkUnitID="{C38CC755-884B-4438-A675-BDD72A7EF7AB}"/>
+														<ObjectRef Name="Fade_In_Blue" ID="{DF206D75-C9DF-49AE-8AD0-9ED9A2155172}" WorkUnitID="{C38CC755-884B-4438-A675-BDD72A7EF7AB}"/>
 													</Reference>
 													<Reference Name="Curve">
 														<Custom>
@@ -82,6 +82,41 @@
 																	<Point>
 																		<XPos>1</XPos>
 																		<YPos>0</YPos>
+																		<Flags>37</Flags>
+																	</Point>
+																</PointList>
+															</Curve>
+														</Custom>
+													</Reference>
+												</ReferenceList>
+											</RTPC>
+										</Local>
+									</Reference>
+									<Reference>
+										<Local>
+											<RTPC Name="" ID="{28E84C0C-0CA9-4D6F-85AC-FBBD6722003B}" ShortID="425783964">
+												<PropertyList>
+													<Property Name="PropertyName" Type="string" Value="Volume"/>
+												</PropertyList>
+												<ReferenceList>
+													<Reference Name="ControlInput">
+														<ObjectRef Name="Fade_Out_Blue" ID="{CA587E6F-030C-4162-B31F-03B5BCBC770A}" WorkUnitID="{C38CC755-884B-4438-A675-BDD72A7EF7AB}"/>
+													</Reference>
+													<Reference Name="Curve">
+														<Custom>
+															<Curve Name="" ID="{1C02D3D1-7ABA-468A-83A7-DFF0977EACBC}">
+																<PropertyList>
+																	<Property Name="Flags" Type="int32" Value="3"/>
+																</PropertyList>
+																<PointList>
+																	<Point>
+																		<XPos>0</XPos>
+																		<YPos>0</YPos>
+																		<Flags>5</Flags>
+																	</Point>
+																	<Point>
+																		<XPos>1</XPos>
+																		<YPos>-200</YPos>
 																		<Flags>37</Flags>
 																	</Point>
 																</PointList>
@@ -194,6 +229,81 @@
 									</MediaIDList>
 								</AudioFileSource>
 							</ChildrenList>
+							<ObjectLists>
+								<ObjectList Name="RTPC">
+									<Reference>
+										<Local>
+											<RTPC Name="" ID="{44F7C34C-A85A-49A7-B04B-AF4FF88BD35E}" ShortID="527634487">
+												<PropertyList>
+													<Property Name="PropertyName" Type="string" Value="Volume"/>
+												</PropertyList>
+												<ReferenceList>
+													<Reference Name="ControlInput">
+														<ObjectRef Name="Fade_In_Purple" ID="{E7DCDBFE-1C42-4A12-98D8-0525B264501D}" WorkUnitID="{C38CC755-884B-4438-A675-BDD72A7EF7AB}"/>
+													</Reference>
+													<Reference Name="Curve">
+														<Custom>
+															<Curve Name="" ID="{1E2E4E3B-C747-43E4-B443-1DAE2290A716}">
+																<PropertyList>
+																	<Property Name="Flags" Type="int32" Value="3"/>
+																</PropertyList>
+																<PointList>
+																	<Point>
+																		<XPos>0</XPos>
+																		<YPos>-200</YPos>
+																		<Flags>5</Flags>
+																		<SegmentShape>Exp1</SegmentShape>
+																	</Point>
+																	<Point>
+																		<XPos>1</XPos>
+																		<YPos>0</YPos>
+																		<Flags>37</Flags>
+																	</Point>
+																</PointList>
+															</Curve>
+														</Custom>
+													</Reference>
+												</ReferenceList>
+											</RTPC>
+										</Local>
+									</Reference>
+									<Reference>
+										<Local>
+											<RTPC Name="" ID="{A3F8513D-4CFA-49A6-9FFA-7312EDF26536}" ShortID="269246871">
+												<PropertyList>
+													<Property Name="PropertyName" Type="string" Value="Volume"/>
+												</PropertyList>
+												<ReferenceList>
+													<Reference Name="ControlInput">
+														<ObjectRef Name="Fade_Out_Purple" ID="{5C0D7B6B-B442-4116-9897-95F3487D02F2}" WorkUnitID="{C38CC755-884B-4438-A675-BDD72A7EF7AB}"/>
+													</Reference>
+													<Reference Name="Curve">
+														<Custom>
+															<Curve Name="" ID="{4482ABA9-04BE-48D4-8827-551DF168A1C7}">
+																<PropertyList>
+																	<Property Name="Flags" Type="int32" Value="3"/>
+																</PropertyList>
+																<PointList>
+																	<Point>
+																		<XPos>0</XPos>
+																		<YPos>0</YPos>
+																		<Flags>5</Flags>
+																	</Point>
+																	<Point>
+																		<XPos>1</XPos>
+																		<YPos>-200</YPos>
+																		<Flags>37</Flags>
+																	</Point>
+																</PointList>
+															</Curve>
+														</Custom>
+													</Reference>
+												</ReferenceList>
+											</RTPC>
+										</Local>
+									</Reference>
+								</ObjectList>
+							</ObjectLists>
 							<ActiveSourceList>
 								<ActiveSource Name="AMBIENT_Cave_Purple" ID="{4FF2E30C-4AAB-44E4-98AC-C973CED68160}" Platform="Linked"/>
 							</ActiveSourceList>

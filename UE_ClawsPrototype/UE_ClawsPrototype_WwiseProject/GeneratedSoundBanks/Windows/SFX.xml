@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="393239870" Type="User" GUID="{5F5C9E13-77AF-48C3-A113-774C373BBEDB}" Language="SFX" Hash="{7EB8E216-2717-3C70-B369-67135B9244EB}">
+			<ObjectPath>\SoundBanks\Default Work Unit\SFX</ObjectPath>
+			<ShortName>SFX</ShortName>
+			<Path>SFX.bnk</Path>
+			<Media>
+				<File Id="210434520" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>SFX_WATERCLAW_Use_End.wav</ShortName>
+					<CachePath>SFX/SFX_WATERCLAW_Use_End_B49D5059.wem</CachePath>
+				</File>
+				<File Id="417558479" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>SFX_WATERCLAW_Use_Lp.wav</ShortName>
+					<CachePath>SFX/SFX_WATERCLAW_Use_Lp_11A93380.wem</CachePath>
+				</File>
+				<File Id="793010801" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>SFX_WATERCLAW_Use_Start.wav</ShortName>
+					<CachePath>SFX/SFX_WATERCLAW_Use_Start_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2302808025" Name="WaterClaw_End" ObjectPath="\Events\Default Work Unit\SFX\WaterClaw_End" GUID="{55F8129D-EB47-44A7-B027-D5EB5BFF6688}" DurationType="OneShot" DurationMin="0.860994" DurationMax="0.860994">
+					<MediaRefs>
+						<MediaRef Id="210434520"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="260712780" Name="WaterClaw_Loop" ObjectPath="\Events\Default Work Unit\SFX\WaterClaw_Loop" GUID="{886B5953-DD19-4B24-953E-75DF6181E06E}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="417558479"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="390746618" Name="WaterClaw_Start" ObjectPath="\Events\Default Work Unit\SFX\WaterClaw_Start" GUID="{6CB18FD8-AF5F-469A-86FC-519C50690ACF}" DurationType="OneShot" DurationMin="2.6419582" DurationMax="2.6419582">
+					<MediaRefs>
+						<MediaRef Id="793010801"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{B5879B09-1C8E-2F20-C97B-DE66BF5F9D38}</FileHash>
+</SoundBanksInfo>

@@ -3,16 +3,48 @@
 	<GameParameters>
 		<WorkUnit Name="Default Work Unit" ID="{C38CC755-884B-4438-A675-BDD72A7EF7AB}" PersistMode="Standalone">
 			<ChildrenList>
-				<GameParameter Name="Fade_In" ID="{DF206D75-C9DF-49AE-8AD0-9ED9A2155172}">
-					<PropertyList>
-						<Property Name="FilterTimeUp" Type="Real64" Value="10"/>
-						<Property Name="InitialValue" Type="Real64" Value="0"/>
-						<Property Name="Max" Type="Real64" Value="1"/>
-						<Property Name="RTPCRamping" Type="int16" Value="2"/>
-						<Property Name="SlewRateDown" Type="Real64" Value="0"/>
-						<Property Name="SlewRateUp" Type="Real64" Value="3"/>
-					</PropertyList>
-				</GameParameter>
+				<Folder Name="Fade_Cave_Blue" ID="{EAD0AC78-FA77-4952-9763-494A6D075B98}" ShortID="341387586">
+					<ChildrenList>
+						<GameParameter Name="Fade_In_Blue" ID="{DF206D75-C9DF-49AE-8AD0-9ED9A2155172}">
+							<PropertyList>
+								<Property Name="FilterTimeUp" Type="Real64" Value="10"/>
+								<Property Name="InitialValue" Type="Real64" Value="0"/>
+								<Property Name="Max" Type="Real64" Value="1"/>
+								<Property Name="RTPCRamping" Type="int16" Value="2"/>
+								<Property Name="SlewRateDown" Type="Real64" Value="0"/>
+								<Property Name="SlewRateUp" Type="Real64" Value="3"/>
+							</PropertyList>
+						</GameParameter>
+						<GameParameter Name="Fade_Out_Blue" ID="{CA587E6F-030C-4162-B31F-03B5BCBC770A}">
+							<PropertyList>
+								<Property Name="FilterTimeUp" Type="Real64" Value="10"/>
+								<Property Name="InitialValue" Type="Real64" Value="0"/>
+								<Property Name="Max" Type="Real64" Value="1"/>
+								<Property Name="RTPCRamping" Type="int16" Value="2"/>
+							</PropertyList>
+						</GameParameter>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Fade_Cave_Purple" ID="{11B547BB-7B50-4A9C-BE1A-58DABD0AEF9B}" ShortID="94074650">
+					<ChildrenList>
+						<GameParameter Name="Fade_In_Purple" ID="{E7DCDBFE-1C42-4A12-98D8-0525B264501D}">
+							<PropertyList>
+								<Property Name="FilterTimeUp" Type="Real64" Value="10"/>
+								<Property Name="InitialValue" Type="Real64" Value="0"/>
+								<Property Name="Max" Type="Real64" Value="1"/>
+								<Property Name="RTPCRamping" Type="int16" Value="2"/>
+							</PropertyList>
+						</GameParameter>
+						<GameParameter Name="Fade_Out_Purple" ID="{5C0D7B6B-B442-4116-9897-95F3487D02F2}">
+							<PropertyList>
+								<Property Name="FilterTimeUp" Type="Real64" Value="10"/>
+								<Property Name="InitialValue" Type="Real64" Value="0"/>
+								<Property Name="Max" Type="Real64" Value="1"/>
+								<Property Name="RTPCRamping" Type="int16" Value="2"/>
+							</PropertyList>
+						</GameParameter>
+					</ChildrenList>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</GameParameters>

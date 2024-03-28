@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{7282AAB3-2A0D-42A9-8DB5-CEF139DCBCF0}",
     "Language": "SFX",
-    "Hash": "{D549C50E-F8BF-3FC9-A852-E134B9BD4F8A}",
+    "Hash": "{7B80C0C7-9C2C-41CF-A00B-F05F9720454D}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Foleys",
     "ShortName": "Foleys",
     "Path": "Foleys.bnk",
@@ -297,26 +297,6 @@
       "DurationType": "OneShot",
       "DurationMin": "0.25685862",
       "DurationMax": "0.49747038",
-      "AuxBusRefs": [
-       {
-        "Id": "1710991347",
-        "Name": "Bus_RVb_Cave_Purple",
-        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Bus_Ambience\\Bus_RVb_Cave_Purple",
-        "GUID": "{EB9EC2A3-4172-4D42-A6A8-EB41033B7D4E}"
-       },
-       {
-        "Id": "3249726050",
-        "Name": "Bus_RVB_Cave_Forest",
-        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Bus_Ambience\\Bus_RVB_Cave_Forest",
-        "GUID": "{42B76DAA-704D-4CF9-A56B-553EACA55FCE}"
-       },
-       {
-        "Id": "4272489413",
-        "Name": "Bus_RVB_Cave_Blue",
-        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Bus_Ambience\\Bus_RVB_Cave_Blue",
-        "GUID": "{7739B8B3-082F-435F-8DA7-59852F42F085}"
-       }
-      ],
       "SwitchContainers": [
        {
         "SwitchValue": {
@@ -420,26 +400,6 @@
        {
         "Id": "273254375"
        }
-      ],
-      "AuxBusRefs": [
-       {
-        "Id": "1710991347",
-        "Name": "Bus_RVb_Cave_Purple",
-        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Bus_Ambience\\Bus_RVb_Cave_Purple",
-        "GUID": "{EB9EC2A3-4172-4D42-A6A8-EB41033B7D4E}"
-       },
-       {
-        "Id": "3249726050",
-        "Name": "Bus_RVB_Cave_Forest",
-        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Bus_Ambience\\Bus_RVB_Cave_Forest",
-        "GUID": "{42B76DAA-704D-4CF9-A56B-553EACA55FCE}"
-       },
-       {
-        "Id": "4272489413",
-        "Name": "Bus_RVB_Cave_Blue",
-        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Bus_Ambience\\Bus_RVB_Cave_Blue",
-        "GUID": "{7739B8B3-082F-435F-8DA7-59852F42F085}"
-       }
       ]
      },
      {
@@ -450,26 +410,6 @@
       "DurationType": "OneShot",
       "DurationMin": "0.25045833",
       "DurationMax": "0.3643125",
-      "AuxBusRefs": [
-       {
-        "Id": "1710991347",
-        "Name": "Bus_RVb_Cave_Purple",
-        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Bus_Ambience\\Bus_RVb_Cave_Purple",
-        "GUID": "{EB9EC2A3-4172-4D42-A6A8-EB41033B7D4E}"
-       },
-       {
-        "Id": "3249726050",
-        "Name": "Bus_RVB_Cave_Forest",
-        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Bus_Ambience\\Bus_RVB_Cave_Forest",
-        "GUID": "{42B76DAA-704D-4CF9-A56B-553EACA55FCE}"
-       },
-       {
-        "Id": "4272489413",
-        "Name": "Bus_RVB_Cave_Blue",
-        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Bus_Ambience\\Bus_RVB_Cave_Blue",
-        "GUID": "{7739B8B3-082F-435F-8DA7-59852F42F085}"
-       }
-      ],
       "SwitchContainers": [
        {
         "SwitchValue": {
@@ -573,26 +513,6 @@
        {
         "Id": "359125677"
        }
-      ],
-      "AuxBusRefs": [
-       {
-        "Id": "1710991347",
-        "Name": "Bus_RVb_Cave_Purple",
-        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Bus_Ambience\\Bus_RVb_Cave_Purple",
-        "GUID": "{EB9EC2A3-4172-4D42-A6A8-EB41033B7D4E}"
-       },
-       {
-        "Id": "3249726050",
-        "Name": "Bus_RVB_Cave_Forest",
-        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Bus_Ambience\\Bus_RVB_Cave_Forest",
-        "GUID": "{42B76DAA-704D-4CF9-A56B-553EACA55FCE}"
-       },
-       {
-        "Id": "4272489413",
-        "Name": "Bus_RVB_Cave_Blue",
-        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Bus_Ambience\\Bus_RVB_Cave_Blue",
-        "GUID": "{7739B8B3-082F-435F-8DA7-59852F42F085}"
-       }
       ]
      }
     ],
@@ -664,6 +584,6 @@
     ]
    }
   ],
-  "FileHash": "{2E348795-8F5E-D54D-57FA-9B05520968BD}"
+  "FileHash": "{471F7FBB-9639-0277-04A6-E55BBC9FA8DF}"
  }
 }

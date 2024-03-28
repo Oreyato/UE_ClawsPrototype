@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{FF4AA13A-6029-D246-B458-5E5E7C384FEB}",
+    "Hash": "{E5B69D03-8FC0-3AB9-3697-7C89910C581D}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
@@ -155,9 +155,27 @@
     ],
     "GameParameters": [
      {
-      "Id": "3968110791",
-      "Name": "Fade_In",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Fade_In",
+      "Id": "1162979099",
+      "Name": "Fade_Out_Purple",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Fade_Cave_Purple\\Fade_Out_Purple",
+      "GUID": "{5C0D7B6B-B442-4116-9897-95F3487D02F2}"
+     },
+     {
+      "Id": "2251122765",
+      "Name": "Fade_Out_Blue",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Fade_Cave_Blue\\Fade_Out_Blue",
+      "GUID": "{CA587E6F-030C-4162-B31F-03B5BCBC770A}"
+     },
+     {
+      "Id": "3665050084",
+      "Name": "Fade_In_Purple",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Fade_Cave_Purple\\Fade_In_Purple",
+      "GUID": "{E7DCDBFE-1C42-4A12-98D8-0525B264501D}"
+     },
+     {
+      "Id": "3914319474",
+      "Name": "Fade_In_Blue",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Fade_Cave_Blue\\Fade_In_Blue",
       "GUID": "{DF206D75-C9DF-49AE-8AD0-9ED9A2155172}"
      }
     ],
@@ -277,6 +295,6 @@
     ]
    }
   ],
-  "FileHash": "{C8BBDBB2-D1BA-848B-34FB-C7607C28B5EA}"
+  "FileHash": "{94B008FE-0969-6C26-75FD-3B2F2F92D9A2}"
  }
 }

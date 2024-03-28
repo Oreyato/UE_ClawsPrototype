@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{C3F3DAB7-9A4F-47BF-BEA0-59F080638F2C}",
     "Language": "SFX",
-    "Hash": "{E903A03A-3734-7E50-DCA7-5CC41FC0E432}",
+    "Hash": "{CAD986D8-8D00-E571-759B-C88251268A24}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Ambiences",
     "ShortName": "Ambiences",
     "Path": "Ambiences.bnk",
@@ -126,10 +126,40 @@
       ]
      },
      {
-      "Id": "2339989177",
-      "Name": "RTPC_Fade_In",
-      "ObjectPath": "\\Events\\Default Work Unit\\RTPC_Fade_In",
+      "Id": "1038767552",
+      "Name": "RTPC_Fade_In_Blue",
+      "ObjectPath": "\\Events\\Default Work Unit\\Ambiences\\Fade_Blue\\RTPC_Fade_In_Blue",
       "GUID": "{F9F0E369-62B1-40C1-AAC0-60FA66127FD5}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     },
+     {
+      "Id": "794026186",
+      "Name": "RTPC_Fade_In_Purple",
+      "ObjectPath": "\\Events\\Default Work Unit\\Ambiences\\Fade_Purple\\RTPC_Fade_In_Purple",
+      "GUID": "{516BA6FB-6246-4D76-86BC-5E0E0BDBAB47}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     },
+     {
+      "Id": "1536013999",
+      "Name": "RTPC_Fade_Out_Blue",
+      "ObjectPath": "\\Events\\Default Work Unit\\Ambiences\\Fade_Blue\\RTPC_Fade_Out_Blue",
+      "GUID": "{737C9598-5E3C-45EC-8F61-B248EF46644D}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     },
+     {
+      "Id": "2728449685",
+      "Name": "RTPC_Fade_Out_Purple",
+      "ObjectPath": "\\Events\\Default Work Unit\\Ambiences\\Fade_Purple\\RTPC_Fade_Out_Purple",
+      "GUID": "{1E53FF86-E7DC-411B-B2EB-29B291786ED4}",
       "MaxAttenuation": "0",
       "DurationType": "OneShot",
       "DurationMin": "0",
@@ -138,14 +168,32 @@
     ],
     "GameParameters": [
      {
-      "Id": "3968110791",
-      "Name": "Fade_In",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Fade_In",
+      "Id": "1162979099",
+      "Name": "Fade_Out_Purple",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Fade_Cave_Purple\\Fade_Out_Purple",
+      "GUID": "{5C0D7B6B-B442-4116-9897-95F3487D02F2}"
+     },
+     {
+      "Id": "2251122765",
+      "Name": "Fade_Out_Blue",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Fade_Cave_Blue\\Fade_Out_Blue",
+      "GUID": "{CA587E6F-030C-4162-B31F-03B5BCBC770A}"
+     },
+     {
+      "Id": "3665050084",
+      "Name": "Fade_In_Purple",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Fade_Cave_Purple\\Fade_In_Purple",
+      "GUID": "{E7DCDBFE-1C42-4A12-98D8-0525B264501D}"
+     },
+     {
+      "Id": "3914319474",
+      "Name": "Fade_In_Blue",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Fade_Cave_Blue\\Fade_In_Blue",
       "GUID": "{DF206D75-C9DF-49AE-8AD0-9ED9A2155172}"
      }
     ]
    }
   ],
-  "FileHash": "{AA44F684-DF90-A445-08F9-52F071C9EB86}"
+  "FileHash": "{23CB8835-99B7-7511-977A-A80D33D38869}"
  }
 }

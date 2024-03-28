@@ -15,20 +15,15 @@
 						<Reference Name="OutputBus">
 							<ObjectRef Name="Bus_Foley" ID="{B1567F55-AAA5-4FF9-9B3D-A5339D411B94}" WorkUnitID="{E3C2C624-D0F7-4E55-A396-6C4433FB673B}"/>
 						</Reference>
-						<Reference Name="UserAuxSend0">
-							<ObjectRef Name="Bus_RVB_Cave_Blue" ID="{7739B8B3-082F-435F-8DA7-59852F42F085}" WorkUnitID="{E3C2C624-D0F7-4E55-A396-6C4433FB673B}"/>
-						</Reference>
-						<Reference Name="UserAuxSend1">
-							<ObjectRef Name="Bus_RVb_Cave_Purple" ID="{EB9EC2A3-4172-4D42-A6A8-EB41033B7D4E}" WorkUnitID="{E3C2C624-D0F7-4E55-A396-6C4433FB673B}"/>
-						</Reference>
-						<Reference Name="UserAuxSend2">
-							<ObjectRef Name="Bus_RVB_Cave_Forest" ID="{42B76DAA-704D-4CF9-A56B-553EACA55FCE}" WorkUnitID="{E3C2C624-D0F7-4E55-A396-6C4433FB673B}"/>
-						</Reference>
 					</ReferenceList>
 					<ChildrenList>
 						<Folder Name="Foley_Remi" ID="{A30E6956-1965-40D2-A473-DC2A49B47BB6}" ShortID="344773216">
 							<ChildrenList>
 								<SwitchContainer Name="Foley_Remi_Footsteps" ID="{071ED20D-9B81-4BFB-9A77-FFD79B03EB59}" ShortID="222317993">
+									<PropertyList>
+										<Property Name="OverrideGameAuxSends" Type="bool" Value="True"/>
+										<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
+									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{99A883DE-BDA1-4577-B2D2-DD14231C34FB}"/>
@@ -84,6 +79,10 @@
 									</GroupingInfo>
 								</SwitchContainer>
 								<ActorMixer Name="Foley_Remi_Land" ID="{CD6E0499-0437-417F-8148-D37E19AC8E4F}" ShortID="568848208">
+									<PropertyList>
+										<Property Name="OverrideGameAuxSends" Type="bool" Value="True"/>
+										<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
+									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{99A883DE-BDA1-4577-B2D2-DD14231C34FB}"/>
@@ -110,7 +109,7 @@
 												</Property>
 												<Property Name="Volume" Type="Real64">
 													<ValueList>
-														<Value>-5</Value>
+														<Value>-11</Value>
 													</ValueList>
 													<ModifierList>
 														<ModifierInfo>
@@ -618,6 +617,10 @@
 									</ChildrenList>
 								</ActorMixer>
 								<ActorMixer Name="Foley_Remi_Jump" ID="{37A12BDB-0225-47AC-AF93-13665D395CCE}" ShortID="444892743">
+									<PropertyList>
+										<Property Name="OverrideGameAuxSends" Type="bool" Value="True"/>
+										<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
+									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{99A883DE-BDA1-4577-B2D2-DD14231C34FB}"/>
@@ -664,6 +667,7 @@
 																</ModifierInfo>
 															</ModifierList>
 														</Property>
+														<Property Name="RandomAvoidRepeatingCount" Type="int32" Value="3"/>
 													</PropertyList>
 													<ReferenceList>
 														<Reference Name="Conversion">
@@ -779,6 +783,7 @@
 																</ModifierInfo>
 															</ModifierList>
 														</Property>
+														<Property Name="RandomAvoidRepeatingCount" Type="int32" Value="3"/>
 													</PropertyList>
 													<ReferenceList>
 														<Reference Name="Conversion">
@@ -894,6 +899,7 @@
 																</ModifierInfo>
 															</ModifierList>
 														</Property>
+														<Property Name="RandomAvoidRepeatingCount" Type="int32" Value="3"/>
 													</PropertyList>
 													<ReferenceList>
 														<Reference Name="Conversion">
@@ -1009,6 +1015,7 @@
 																</ModifierInfo>
 															</ModifierList>
 														</Property>
+														<Property Name="RandomAvoidRepeatingCount" Type="int32" Value="3"/>
 													</PropertyList>
 													<ReferenceList>
 														<Reference Name="Conversion">
@@ -1157,7 +1164,7 @@
 											<PropertyList>
 												<Property Name="Volume" Type="Real64">
 													<ValueList>
-														<Value>-5</Value>
+														<Value>-11</Value>
 													</ValueList>
 												</Property>
 											</PropertyList>

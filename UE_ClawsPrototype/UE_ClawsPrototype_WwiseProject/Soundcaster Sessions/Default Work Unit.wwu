@@ -11,12 +11,24 @@
 				<SoundcasterSession Name="New Soundcaster Session_01" ID="{5D56D8B9-97BD-4287-B7FE-711C9A5BE018}">
 					<RTPCValueList ShowAll="true">
 						<RTPCValue>
-							<GameParameterRef Name="Fade_In" ID="{DF206D75-C9DF-49AE-8AD0-9ED9A2155172}"/>
+							<GameParameterRef Name="Fade_Out_Purple" ID="{5C0D7B6B-B442-4116-9897-95F3487D02F2}"/>
+							<Value>0</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="Fade_Out_Blue" ID="{CA587E6F-030C-4162-B31F-03B5BCBC770A}"/>
+							<Value>0</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="Fade_In_Blue" ID="{DF206D75-C9DF-49AE-8AD0-9ED9A2155172}"/>
+							<Value>0</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="Fade_In_Purple" ID="{E7DCDBFE-1C42-4A12-98D8-0525B264501D}"/>
 							<Value>1</Value>
 						</RTPCValue>
 					</RTPCValueList>
 					<CurrentStateList ShowAll="true">
-						<CurrentStateRef Name="None" ID="{C0B1A4CF-96ED-48D9-94FC-385691C7AB64}"/>
+						<CurrentStateRef Name="Cave_Blue" ID="{652E50A6-AA8D-46DF-9774-D1782F57945B}"/>
 					</CurrentStateList>
 					<CurrentSwitchList ShowAll="true">
 						<CurrentSwitchRef Name="Corals" ID="{0206F064-1B90-475D-BBCA-CA206B1A973B}"/>

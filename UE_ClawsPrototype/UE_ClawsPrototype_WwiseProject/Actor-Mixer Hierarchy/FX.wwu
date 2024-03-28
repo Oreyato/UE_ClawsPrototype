@@ -53,6 +53,7 @@
 						</ActorMixer>
 					</ChildrenList>
 				</ActorMixer>
+				<WorkUnit Name="WaterClaw" ID="{FD862FAF-FEAD-4355-92CC-B128A06ABE16}" PersistMode="Reference"/>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>
